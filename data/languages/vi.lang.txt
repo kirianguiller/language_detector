@@ -1,0 +1,109 @@
+Nguyên tử
+Bách khoa toàn thư mở Wikipedia
+Bước tới: menu, tìm kiếm
+
+Nguyên tử là phần tử hóa học nhỏ nhất không thể phân chia cấu tạo nên vật chất . Mỗi loại nguyên tử có tính chất vật lý và hóa học đặc trưng và tạo nên một nguyên tố hóa học. Mỗi nguyên tố có một nguyên tử số xác định.
+
+Do trong các phản ứng hóa học, nguyên tử là phần tử nhỏ nhất không phân chia được, ý nghĩa này mang lại tên gọi nguyên tử, "phần tử luôn giữ nguyên". Tuy nhiên, trong một số tương tác vật lý, nguyên tử có thể được tách ra thành các thành phần nhỏ bé hơn, gọi là các hạt hạ nguyên tử hay Điện Tử . Có ba loại Điện Tử Cơ Bản
+
+   1. Điện Tử Âm : Điện Tử có Điện Âm
+   2. Điện Tử Dương : Điện Tử có Điện Dương
+   3. Điện Tử Trung Hòa : Điện Tử không tích điện
+
+Lý thuyết hóa học cho rằng tất cả vật chất được tạo thành từ các nguyên tử được gọi là lý thuyết nguyên tử.
+Mục lục
+[ẩn]
+
+    * 1 Lịch sử khám phá
+          o 1.1 Mô hình sơ khai
+          o 1.2 Việc tìm ra điện tử
+          o 1.3 Các mô hình nguyên tử
+          o 1.4 Việc tìm ra proton
+          o 1.5 Việc tìm ra neutron
+          o 1.6 Vì sao điện tử không rơi vào trong hạt nhân
+          o 1.7 Bản chất lưỡng tính
+          o 1.8 Mô hình nguyên tử Bohr
+          o 1.9 Mô hình nguyên tử hiện đại
+    * 2 Mô tả hiện nay
+    * 3 Xem thêm
+    * 4 Liên kết ngoài
+
+[sửa] Lịch sử khám phá
+
+[sửa] Mô hình sơ khai
+Democritus là người đầu tiên đưa ra khái niệm nguyên tử
+
+Mô hình nguyên tử là một nội dung của lý thuyết nguyên tử, nó phát biểu rằng nguyên tử được tạo thành từ các phần tử nhỏ hơn được gọi là các hạt hạ nguyên tử. Khái niệm nguyên tử được Democritus đưa ra từ khoảng 450 TCN. Tuy nhiên, các nhà khoa học cổ Hy Lạp không dựa trên các phương pháp thực nghiệm để xây dựng các lý thuyết mà dựa trên siêu hình học. Chính vì thế mà từ khi Democritus đưa ra khái niệm đó cho đến tận thế kỷ thứ 18 thì người ta mới có những bước tiến bộ đáng kể trong việc phát triển lý thuyết về nguyên tử. Trong hoá học, dựa trên định luật bảo toàn khối lượng và định luật tỉ lệ các chất trong các phản ứng hoá học, vào năm 1808, John Dalton (1766-1844) đã đưa ra lý thuyết nguyên tử của mình để giải thích các định luật trên. Lý thuyết của ông dựa trên năm giả thuyết. Giả thuyết thứ nhất phát biểu rằng tất cả vật chất đều được tạo thành từ các nguyên tử. Giả thuyết thứ hai là các nguyên tử của cùng một nguyên tố sẽ có cùng một cấu trúc và tính chất. Giả thuyết thứ ba là các nguyên tử không thể bị phân chia, không thể được sinh ra hoặc mất đi. Giả thuyết thứ tư là các nguyên tử của các nguyên tố khác nhau kết hợp với nhau để tạo ra các hợp chất. Giả thuyết thứ năm là trong các phản ứng hoá học, các nguyên tử có thể kết hợp, phân tách hoặc tái sắp xếp lại. Lý thuyết của Dalton không chỉ giải thích các định luật trên mà còn là cơ sở để xây dựng các lý thuyết khác về nguyên tử sau này.
+
+Cả Democritus và John Dalton đều cho rằng nguyên tử không có cấu trúc, tức là nguyên tử không được tạo thành từ các phần tử nhỏ hơn, chính vì thế người ta thường gọi các mô hình đó là mô hình sơ khai về nguyên tử. Cùng với sự phát triển của khoa học, các giả thuyết của John Dalton được xem xét lại và người ta thấy rằng không phải nguyên tử là hạt không có cấu trúc mà ngay cả nguyên tử của cùng một nguyên tố cũng có thể có tính chất khác nhau. Vào đầu thế kỷ thứ 20, các nhà khoa học đã phát hiện ra rằng, nguyên tử được tạo thành từ ba loại hạt hạ nguyên tử, được gọi là proton, neutron và điện tử (electron). Proton và neutron nằm ở trung tâm nguyên tử và tạo nên hạt nhân của nguyên tử và điện tử chiếm khoảng không gian xung quanh hạt nhân đó. Số hạt hạ nguyên tử và sự sắp xếp của các hạt đó trong nguyên tử sẽ xác định tính chất hoá học của nguyên tố. Nguyên tử của cùng loại nguyên tố có thể có số neutron khác nhau (được gọi là các đồng vị) và số điện tử khác nhau (được gọi là ion). Số proton là yếu tố quyết định tính chất hoá học của nguyên tố.
+
+[sửa] Việc tìm ra điện tử
+
+Điện tử là hạt hạ nguyên tử đầu tiên được tìm ra dựa vào tính chất điện của vật chất. Vào cuối thập kỷ đầu tiên của thế kỷ thứ 19, người ta đã nghiên cứu ống chùm ca-tốt (cathode ray tube). Ống chùm ca-tốt là một ống thuỷ tinh, bên trong có chứa khí có áp suất thấp, một đầu của ống là cực dương, và đầu kia là cực âm. Hai cực đó được nối với một nguồn có điện thế khác nhau, nguồn này tạo ra một dòng hạt có thể đi qua khí bên trong ống. Người ta giả thiết rằng có một chùm hạt phát ra từ cực dương đi về phía cực âm và làm cho ống phát sáng. Chùm đó được gọi là chùm ca-tốt. Khi đặt một vật chướng ngại nhẹ trong ống thì vật đó bị di chuyển từ cực dương về cực âm, người ta kết luận hạt đó có khối lượng. Khi đặt một từ trường vào thì dòng hạt bị dịch chuyển, người ta kết luận hạt đó có điện tích.
+
+Năm 1897, nhà vật lý người Anh Joseph John Thomson (1856-1940) đã kiểm chứng hiện tượng này bằng rất nhiều thí nghiệm khác nhau, ông đã đo được tỷ số giữa khối lượng của hạt và điện tích của nó bằng độ lệch hướng của chùm tia trong các từ trường và điện trường khác nhau. Thomson dùng rất nhiều các kim loại khác nhau làm cực dương và cực âm đồng thời thay đổi nhiều loại khí trong ống. Ông thấy rằng độ lệch của chùm tia có thể tiên đoán bằng công thức toán học. Thomson tìm thấy tỷ số điện tích/khối lượng là một hằng số không phụ thuộc vào việc ông dùng vật liệu gì. Ông kết luận rằng tất cả các chùm ca-tốt đều được tạo thành từ một loại hạt mà sau này nhà vật lý người Ái Nhĩ Lan George Johnstone Stoney đặt tên là "electron", vào năm 1891.
+
+Năm 1909, nhà vật lý người Mỹ Robert Millikan (1868-1953) tìm ra điện tích của một điện tử bằng cách dùng thí nghiệm "giọt dầu" . Ông dùng tia X để làm cho các giọt dầu có điện tích âm, sau đó ông phun các giọt dầu này vào một dụng cụ sao cho các giọt dầu đó rơi vào khoảng không giữa hai tấm tích điện. Ông thay đổi điện tích của các tấm tích điện và xác định việc ảnh hưởng của sự thay đổi này đến quá trình rơi của các giọt dầu. Nhờ đó ông thấy điện tích của mỗi giọt dầu là một số nguyên lần điện tích của một đại lượng nào đó mà ông cho rằng đó là điện tích của một điện tử. Nhờ vào tỷ số điện tích/khối lượng của Thomson mà ông xác định được khối lượng của điện tử. Ông lý luận rằng chùm ca-tốt bị lệch đi đối với bất kỳ chất khí nào được dùng trong thí nghiệm nên ông cho rằng điện tử có mặt trong tất cả mọi nguyên tố. Do nguyên tử là trung hòa về điện, mà điện tử lại có điện tích âm nên cần phải có một điện tích dương tồn tại trong nguyên tử. Hơn nữa, vì khối lượng của điện tử rất nhỏ so với khối lượng của nguyên tử nên cần phải có một thực thể nào đó chịu trách nhiệm cho khối lượng lớn của nguyên tử. Đây là lần đầu tiên các kết quả thực nghiệm cho thấy nguyên tử có thể bị phân chia và đó là cơ sở cho mô hình nguyên tử.
+
+[sửa] Các mô hình nguyên tử
+Mô hình của Dalton, Thompson, Rutherford, Bohr và mô hình lượng tử về nguyên tử
+
+Dựa trên một số giả thuyết do Lord Kelvin (1824-1907) đưa ra và các kết quả của Millikan, năm 1902, Thomson đưa ra mô hình nguyên tử đầu tiên. Mô hình này cho rằng các điện tử mang điện tích âm được trộn lẫn trong vật chất mang điện tích dương, giống như các quả mận nhỏ được trộn lẫn trong bánh, mô hình này còn được gọi là mô hình bánh mận (tiếng Anh: plum pudding). Nếu một điện tử bị xê dịch thì nó sẽ bị kéo về vị trí ban đầu. Điều này làm cho nguyên tử trung hòa về điện và ở trạng thái ổn định. Cùng khoảng thời gian đó, một nhà vật lý người Nhật bản là Hantaro Nagoaka đưa ra mô hình Sao Thổ của ông vào năm 1904. Mô hình này cho rằng vật chất mang điện tích dương của nguyên tử giống như sao Thổ, còn các điện tử mang điện tích âm thì chuyển động giống như các vòng đai của sao Thổ. Mô hình này sẽ không bền vì điện tử sẽ mất năng lượng và rơi vào tâm của nguyên tử.
+
+Mô hình của Thomson được thừa nhận hơn mô hình của Nagoaka nhưng nó cũng chỉ đứng vững được vài năm cho đến khi nhà vật lý người New Zealand là Ernest Rutherford (1871-1937) đưa ra mô hình nguyên tử của ông. Cùng với đồng nghiệp là Hans Geiger và Ernest Mardsen, Rutherford đã dùng một chùm hạt alpha bắn phá một lá vàng mỏng trong thí nghiệm mang tên ông. Hạt alpha là một hạt mang điện dương (+2), có khối lượng khoảng bốn lần khối lượng nguyên tử hydrogen. Kết quả thu được cho thấy hầu hết các hạt alpha đi qua lá vàng mà không bị lệch hướng, một số hạt (1/8000 so với số hạt đi thẳng) bị lệch hướng và một số ít hạt bị bật ngược trở lại. Kết quả này cho phép kết luận như sau: nguyên tử có cấu tạo rỗng, các electron bao quanh một hạt có kích thước rất nhỏ so với kích thước nguyên tử (ta cứ tưởng tượng nếu hạt nhân nguyên tử lớn cỡ một nắm tay hoặc một mét thì nguyên tử của chúng ta phải to bằng cả cái nhà ba tầng hoặc sẽ rộng tới 10km). Trên lá kim loại các phân tử mang điện tích dương phân bố rất thưa thớt vì thế các hạt alpha đi qua lá kim loại dễ dàng. Một số hạt đi gần với các hạt điện tích dương và các hạt này tích điện lớn nên đẩy hạt alpha đi lệch hướng ban đầu hoặc ngược hướng ban đầu. Ông gọi đó là hạt nhân. Hạt nhân có các điện tử quay xung quanh giống như các hành tinh quay xung quanh Mặt Trời, tuy thể tích hạt nhân rất nhỏ so với nguyên tử nhưng phần lớn khối lượng nguyên tử lại tập trung ở đó. Mô hình này còn có cái tên là mẫu hành tinh nguyên tử.
+
+Mô hình này không được thừa nhận rộng rãi vì các nhà vật lý không hiểu tại sao một phần nhỏ của nguyên tử lại có thể mang hầu hết khối lượng của nó. Hơn nữa, mô hình này mâu thuẫn với bảng tuần hoàn các nguyên tố hóa học của Dmitri Ivanovich Mendeleev. Theo Mendeleev thì khối lượng nguyên tử của các nguyên tố quyết định tính chất của nguyên tố đó mà không phụ thuộc vào điện tích của hạt nhân. Mô hình này cũng không giải thích được tại sao điện tử không bị rơi vào hạt nhân.
+
+[sửa] Việc tìm ra proton
+
+Năm 1913, nhà vật lý người Anh Henry Gwyn Jeffreys Moseley (1887-1915) thấy rằng mỗi nguyên tố có một điện tích dương duy nhất tại hạt nhân của nguyên tử. Do đó hạt nhân phải chứa một loại hạt mang điện tích dương được gọi là proton. Số proton trong hạt nhân được gọi là nguyên tử số (tiếng Anh: atomic number). Moseley cho rằng bảng tuần hoàn nên được sắp xếp theo sự tăng dần của nguyên tử số thay cho việc sắp xếp theo sự tăng dần của nguyên tử lượng. Điều này làm cho bảng tuần hoàn thêm hoàn thiện và tiên đoán chính xác các nguyên tố sẽ được tìm ra.
+
+[sửa] Việc tìm ra neutron
+
+Người ta thấy rằng nguyên tử lượng của hyđrô lớn hơn tổng khối lượng của một proton và một điện tử chính vì vậy phải tồn tại một loại hạt khác trong hạt nhân đóng góp vào khối lượng của nguyên tử. Vì nguyên tử trung hòa về điện nên hạt này phải không mang điện tích. Nhà vật lý người Pháp Irene Joliot-Curie (1897-1956) đã tiến hành một thí nghiệm, bà bắn phá một mẫu berili bằng chùm hạt alpha và làm phát ra một chùm hạt mới có khả năng thấm sâu vào vật chất nhiều hơn hạt alpha. Năm 1932, nhà vật lý người Anh James Chadwick (1891-1974) phát hiện ra rằng chùm hạt đó được tạo thành từ các hạt có cùng khối lượng với proton. Do điện từ trường không làm lệch hướng chuyển động của hạt này nên nó là một hạt trung hòa về điện và ông gọi nó là neutron. Và mô hình nguyên tử của Rutherford lúc đó là: proton và neutron tạo nên hạt nhân nguyên tử, điện tử chuyển động xung quanh và chiếm phần lớn thể tích của nguyên tử đó. Khối lượng của điện tử rất nhỏ so với khối lượng của hạt nhân nguyên tử. Đến lúc đó người ta vẫn không hiểu tại sao điện tử lại có thể ổn định trong nguyên tử mà không bị rơi vào hạt nhân.
+
+[sửa] Vì sao điện tử không rơi vào trong hạt nhân
+
+Đây chính là câu hỏi mà Niels Bohr đã không trả lời được vào năm 1912. Ngay cả sau khi khám phá ra tính chất sóng tự nhiên của điện tử và sự tương đồng với các sóng đứng trong các hệ cơ học, câu hỏi trên vẫn chưa có lời giải thích; điện tử vẫn là một hạt có điện tích âm và bị hút vào trong hạt nhân.
+
+Câu trả lời hoàn thiện đến từ nguyên lý bất định của Werner Heisenberg, nó phát biểu rằng một hạt lượng tử như electron không thể nào xác định được vị trí và động lượng cùng một lúc. Để hiểu được sự hoạt động của nguyên lý này, ta giả sử đặt một điện tử vào trong một cái hộp nhỏ. Các bức thành hộp có độ lệch là δx, hộp này càng nhỏ, ta càng biết rõ vị trí của điện tử trong hộp hơn. Nhưng khi cái hộp nhỏ lại, sự bất định của động năng của electron tăng lên. Và kết quả của sự bất định này, vì điện tử sẽ có động năng lớn, nó có thể xuyên thủng thành hộp và thoát ra ngoài hộp.
+
+Vùng gần hạt nhân có thể được xem như một cái hộp phễu cực nhỏ, các bức thành của nó tương ứng với lực hút tĩnh điện, cái phải lớn hơn, nếu một electron bị chế ngự bên trong vùng này muốn thoát ra ngoài. Khi một điện tử bị kéo lại gần hạt nhân bởi lực hút tĩnh điện, vùng thể tích của nó bị giảm đi một cách nhanh chóng. Do vị trí của nó càng dễ xác định hơn, động năng của nó lúc này lại trở nên bất định, động năng của điện tử tăng lên một cách nhanh chóng, hơn là thế năng của nó để rơi vào hạt nhân, vì vậy nó bị bật lại tới quỹ đạo thấp nhất, tương ứng với n = 1.
+
+[sửa] Bản chất lưỡng tính
+
+Năm 1900, nhà vật lý người Đức Max Planck (1858-1947) nghiên cứu sự phát xạ ánh sáng của một vật nóng. Ông giả thiết rằng sự phát xạ sóng điện từ theo từng lượng gián đoạn gọi là lượng tử năng lượng (tiếng Anh: quantum of energy), hay gọi tắt là lượng tử. Một lượng tử năng lượng của sóng điện từ tỷ lệ với tần số của nó với hệ số tỷ lệ được gọi là hằng số Plank. Năm 1905, khi giải thích cho hiệu ứng quang điện, Albert Einstein (1879-1955) cho rằng ánh sáng không chỉ được phát xạ theo từng lượng tử mà còn có thể bị hấp thụ theo từng lượng tử. Ánh sáng vừa có tính chất sóng và tính chất hạt. Mỗi hạt ánh sáng được gọi là một quang tử (photon), có năng lượng là một lượng tử ánh sáng. Giả thuyết của Einstein giúp giải thích sự phát xạ trong ống chùm ca-tốt.
+
+[sửa] Mô hình nguyên tử Bohr
+
+    Bài chi tiết: Mô hình nguyên tử Bohr
+
+Năm 1913, nhà vật lý lý thuyết người Đan Mạch Niels Bohr (1885-1962) đưa ra mô hình bán cổ điển về nguyên tử hay còn gọi là mô hình nguyên tử của Bohr. Bohr thay đổi mô hình của Rutherford bằng cách giải thiết rằng các điện tử chuyển động xung quanh hạt nhân theo các quỹ đạo có năng lượng và bán kính cố định. Năng lượng của điện tử phụ thuộc vào bán kính quỹ đạo của điện tử đó. Điện tử nằm trên quỹ đạo có bán kính nhỏ nhất sẽ có năng lượng nhỏ nhất và đó là trạng thái năng lượng ổn định (tên khác: trạng thái ổn định, hay trạng thái cơ bản) nhất của điện tử, điện tử không thể nằm ở các trạng thái nào thấp hơn trạng thái đó. Tuy vậy, điện tử có thể có năng lượng cao hơn khi nó nằm trên các quỹ đạo xa hạt nhân hơn, lúc này điện tử nằm ở trạng thái kích thích.
+
+Các mức năng lượng giống như các bậc thang, điện tử không thể ở giữa các mức đó được mà chỉ có thể ở trên một bậc thang nào đó. Khi chuyển từ mức năng lượng này sang mức năng lượng khác, điện tử có thể hấp thụ hoặc phát ra năng lượng. Năng lượng hấp thụ và phát xạ của một quang tử chính bằng sự sai khác năng lượng giữa các quỹ đạo. Bằng mô hình đó, Bohr có thể tính được năng lượng của điện tử trong nguyên tử hydrogen từ phổ phát xạ của nguyên tử đó. Tuy nhiên, mô hình nguyên tử của Bohr không thể giải thích tính chất của các nguyên tử có nhiều hơn một điện tử.
+
+[sửa] Mô hình nguyên tử hiện đại
+Các hàm sóng quỹ đạo điện tử của nguyên tử hi-đrô. Các số lượng tử chính ở bên phải của mỗi hàng và số lượng tử phương vị được cho bởi các chữ cái ở đỉnh mỗi cột.
+
+Mô hình nguyên tử hiện đại là mô hình nguyên tử dựa trên cơ học lượng tử. Cơ học lượng tử được phát triển dựa trên sự đóng góp của nhiều người: Arthur Compton (1892-1962) tạo thí nghiệm nhiễu xạ tia X, Louis-Victor de Broglie (1892-1987) khai triển lý thuyết lưỡng tính sóng hạt, Erwin Schrödinger (1887-1961) đưa ra phương trình sóng, Werner Heisenberg (1901-1976) đưa ra nguyên lý bất định. Dựa trên cơ học lượng tử, người ta thay đổi mô hình nguyên tử của Bohr để xây dựng lên mô hình hiện đại về nguyên tử.
+
+Quỹ đạo xác định trong mô hình Bohr được thay bằng một quỹ đạo xác suất, trên đó điện tử có thể được tìm thấy với một xác suất nhất định. Quỹ đạo khả dĩ hay là trạng thái khả dĩ của điện tử được đặc trưng bởi bốn số lượng tử. Sự sắp xếp của các điện tử trong nguyên tử tuân theo nguyên lý Aufbau, tức là các điện tử sẽ chiếm các trạng thái có năng lượng thấp nhất. Nhưng chúng phải thỏa mãn nguyên lý loại trừ Pauli nói rằng không thể có nhiều hơn hai điện tử trong nguyên tử ở các trạng thái năng lượng có bốn số lượng tử giống nhau. Sau đó chúng phải thỏa mãn quy tắc Hund phát biểu rằng các điện tử sẽ chiếm quỹ đạo sao cho có số quỹ đạo nhiều nhất đối với một điện tử. Quy tắc Hund được Friedrich Hund (1896-1997) đưa ra khi tính đến lực đẩy tĩnh điện giữa các điện tử trên một quỹ đạo.
+
+[sửa] Mô tả hiện nay
+
+Mô hình nguyên tử được chấp nhận ngày nay như sau:
+
+    * Nguyên tử được tạo thành từ một hạt nhân mang điện tích dương nằm ở tâm nguyên tử và các điện tử mang điện tích âm chuyển động xung quanh.
+    * Hạt nhân được tạo thành từ các hạt proton mang điện tích dương và các hạt neutron không mang điện. Mỗi nguyên tố chỉ có một số proton duy nhất nhưng có thể có số neutron khác nhau (các nguyên tố này được gọi là các đồng vị). Hạt nhân của điện tử chiếm một vùng không gian rất nhỏ bé so với nguyên tử. Nếu coi hạt nhân là một quả cầu bán kính 1 m đặt tại Hà Nội thì điện tử to bằng hạt cát ở gần nhất cũng cách đó 100 km, tức là ở Hải Phòng.
+    * Các điện tử chuyển động xung quanh hạt nhân trên các quỹ đạo. Sự sắp xếp của các quỹ đạo trong nguyên tử được gọi là cấu hình điện tử. Mỗi quỹ đạo được đặc trưng bởi ba số lượng tử là: số lượng tử chính, số lượng tử phương vị và số lượng tử từ. Trên mỗi quỹ đạo có thể có hai điện tử, nhưng hai điện tử này phải có một số lượng tử thứ tư là spin khác nhau.
+    * Các quỹ đạo của điện tử không phải là những đường cố định mà là sự phân bố xác suất mà các điện tử có thể có mặt.
+    * Các điện tử sẽ chiếm các quỹ đạo có năng lượng thấp nhất (các quỹ đạo gần hạt nhân nhất). Chỉ có các điện tử ở lớp ngoài cùng mới có khả năng tham gia để tạo các liên kết hóa học.
+
+[sửa] Xem thêm
+
+    * Hạt nhân nguyên tử
+    * Điện tử
+
+[sửa] Liên kết ngoài
+
+    * Cấu trúc của nguyên tử

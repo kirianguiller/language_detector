@@ -1,0 +1,169 @@
+ Wikipedia: Macht das Leben leichter.
+$2.661.719
+Ziel: $6.000.000
+Spenden Sie jetzt »
+[Anzeigen]
+Unterstützen Sie Wikipedia: ein gemeinnütziges Projekt.
+Spenden Sie jetzt »
+Atom
+aus Wikipedia, der freien Enzyklopädie
+Wechseln zu: Navigation, Suche
+	Dieser Artikel beschäftigt sich mit dem Materiebaustein. Für weitere Bedeutungen siehe Atom (Begriffsklärung)
+Stark vereinfachende Darstellung eines Helium-Atoms: Zwei Elektronen (gelb) umgeben einen Kern aus zwei Protonen (rot) und zwei Neutronen (grün).
+
+Das Atom (von altgriechisch ἄτομος (ὕλη) átomos (hýle) „unteilbare (Materie)“) ist der kleinste chemisch nicht weiter teilbare Baustein der Materie, der ein bestimmtes Element darstellt und elektrisch neutral ist.
+
+Für den Aufbau des Atoms aus noch „kleineren“ Bausteinen wurden im Laufe der Wissenschaftsgeschichte verschiedene Atommodelle vorgeschlagen. Seit Anfang des 20. Jahrhunderts ist gesichert, dass Atome aus einem elektrisch positiv geladenen Atomkern und einer Atomhülle aus negativ geladenen Elektronen bestehen.
+
+Im gewöhnlichen Zustand sind Atome neutral, weil sie gleich viele Protonen und Elektronen enthalten, deren Ladungen einander aufheben. Werden Elektronen entfernt oder hinzugefügt, so verbleibt eine positive oder negative elektrische Ladung; Atome in diesem Zustand werden als Ionen und diese Umwandlung als Ionisierung bezeichnet.
+
+Die gesamte von uns wahrnehmbare, unbelebte und belebte Materie unserer irdischen Umgebung besteht aus (neutralen oder ionisierten) Atomen. Materie in nicht atomarem Zustand gibt es in Neutronensternen, schwarzen Löchern und exotischen Atomen sowie in einer noch hypothetischen dunklen Materie bislang unbekannter Natur.
+Inhaltsverzeichnis
+[Verbergen]
+
+    * 1 Aufbau
+          o 1.1 Energie-Größenordnungen
+          o 1.2 Energieniveaus
+    * 2 Geschichtlicher Abriss der Atom-, Kern- und Elementarteilchenphysik
+    * 3 Zitate
+    * 4 Literatur
+    * 5 Einzelnachweise
+    * 6 Siehe auch
+    * 7 Weblinks
+
+Aufbau [Bearbeiten]
+Schematische Darstellung des Atoms. Nicht maßstäblich.
+
+Der Atomkern ist aus Protonen und elektrisch neutralen Neutronen aufgebaut. Die Anzahl der Protonen (Kernladungszahl) bestimmt die Stellung des Elements im Periodensystem der chemischen Elemente, die daher auch Ordnungszahl genannt wird. Innerhalb des Periodensystems nehmen die Atomradien von links nach rechts ab (eine Ausnahme bilden die Edelgase) und von oben nach unten zu. Allerdings besteht kein linearer Zusammenhang zwischen Ordnungszahl und Atomradius.
+
+Atomsorten (Nuklide), welche die gleiche Anzahl von Protonen (Kernladungszahl) und damit dieselbe Ordnungszahl besitzen, gehören zu ein und dem selben Element und heißen Isotope. Da das chemische Verhalten eines Atoms von den Eigenschaften der Atomhülle bestimmt wird und diese Eigenschaften bei Isotopen sehr ähnlich sind, sind Isotope ein und des selben Elements chemisch meist kaum unterscheidbar (siehe Isotopeneffekt).
+
+Die Elektronenhüllen sind in erster Näherung kugelförmig und haben eine Größe von 0,1 bis 0,5 nm, also 0,000.000.1 bis 0,000.000.5 Millimeter (etwa 10−10 m ). Der Kern hat einen ungefähr zehntausendfach kleineren Durchmesser (10−14 m), er ist im Vergleich zur Hülle winzig klein. Zur Veranschaulichung: Würde man ein Atom auf die Größe einer Kathedrale aufblähen, so entspräche der Kern der Größe eines Kirschkerns. Der Kern nimmt nur etwa ein Billionstel des Gesamtvolumens eines Atoms ein, wobei aber beinahe die gesamte Masse des Atoms auf diesen winzigen Kern entfällt. Auch ein Vergleich mit unserem Sonnensystem ist lehrreich: Denkt man sich die Sonne als Atomkern, so würde das innerste Elektron einem Planeten im doppelten Abstand des Neptun entsprechen mit rund 2/3 von dessen Masse.
+
+Das Atom als Grundbaustein der Materie besteht somit fast ausschließlich aus leerem Raum. Weil der Kern nahezu die gesamte Masse des Atoms enthält und die Elektronen dazu praktisch nichts beitragen, wird die Gesamtzahl der Protonen und Neutronen im Kern Massenzahl genannt. Eine Atomsorte oder Nuklid wird durch Angabe des Elements und der Massenzahl beschrieben, z. B. bezeichnet 16O das häufigste Sauerstoffisotop oder 56Fe das häufigste Eisenisotop. Die Masse eines Atoms beträgt je nach Massenzahl zwischen 10-24 und 10-22 g. Das kleinste und leichteste Atom ist das Wasserstoffatom 1H, dessen Kern aus einem einzelnen Proton besteht. Eines der schwersten natürlich vorkommenden Nuklide ist das Uranisotop 238U mit 92 Protonen (siehe Periodensystem). Das schwerste Nuklid, dessen Herstellung bis August 2004 gelang, ist das Ununoctium 294Uuo mit 118 Protonen. Es ist jedoch mit einer Halbwertszeit von 0,89 ms extrem kurzlebig.
+
+Energie-Größenordnungen [Bearbeiten]
+
+Den verschiedenen Größenordnungen der Durchmesser von Atomhülle und Atomkern entsprechen auch verschiedene Größenordnungen der Bindungsenergien, die den jeweiligen Aufbau bestimmen. Die Bindungsenergien, mit denen die Elektronen der Hülle an den Kern gebunden sind, reichen von wenigen Elektronenvolt (eV) bis zu Hunderten Kiloelektronenvolt (keV), während die Bindungsenergien innerhalb des Kerns stets viele Megaelektronenvolt (MeV) betragen.
+
+Vorgänge, die in einem physikalischen System nennenswerte Änderungen bewirken, weisen immer Energieumsätze mindestens in der Größenordnung der Bindungsenergie auf. Dementsprechend gibt es z. B. viele für die Hülle wichtige Vorgänge, die den Kern unbeeinflusst lassen. Hieraus ergibt sich eine natürliche Einteilung der Forschungs- und Anwendungsgebiete:
+
+    * Die Chemie beschäftigt sich mit den Verbindungen der Atome zu Molekülen. Typische Energieumsätze liegen hier im eV-Bereich.
+    * Die Atomphysik im engeren Sinne (Physik der Atomhülle) beschäftigt sich mit Aufbau und inneren Vorgängen der Atomhülle.
+    * Die Kernphysik beschäftigt sich mit Aufbau und inneren Vorgängen der Atomkerne.
+    * Schließlich beschäftigt sich die Elementarteilchenphysik - durch Erforschung noch höherenergetischer Prozesse, im GeV-Bereich - mit dem inneren Aufbau der Kernbestandteile Proton und Neutron und weiterer Elementarteilchen.
+
+Energieniveaus [Bearbeiten]
+
+Der Energieinhalt eines Atoms (einer Atomhülle) kann, anders als bei makroskopischen physikalischen Systemen, nicht beliebige, sondern nur bestimmte, diskrete („gequantelte“) Werte annehmen. In einer gewissen Näherung kann man die Bindung jedes Elektrons an den Kern einzeln betrachten; statt von der Energie „des Atoms“ spricht man daher oft von der Energie „eines Elektrons“. Die Elektronen befinden sich also auf diskreten Energieniveaus. Diese entscheidend wichtige Eigenschaft wurde zuerst 1913 von Niels Bohr (siehe unten) im Widerspruch zu den bis dahin bekannten physikalischen Gesetzen angenommen, um die Linienspektren des von Atomen ausgehenden Lichtes erklären zu können. Die nachfolgende Entwicklung der Quantenmechanik führte zum heutigen theoretischen Verständnis dieser Eigenschaft. Die Quantenmechanik erklärt auch die genaue Lage der Energieniveaus und weitere Eigenschaften der Atomhülle (siehe Elektronenkonfiguration).
+
+Auch der Atomkern hat diskrete Energieniveaus. Die Gammastrahlung, das kernphysikalische Gegenstück zur Lichtemission der Atomhülle, zeigt daher ebenfalls Linienspektren.
+
+Geschichtlicher Abriss der Atom-, Kern- und Elementarteilchenphysik [Bearbeiten]
+
+Siehe auch: Atomismus und Atommodell
+
+Die Geschichte der Idee des Atoms beginnt im antiken Griechenland um 400 vor Christus.
+Griechische Münze mit Demokrit und Atomdarstellung
+
+um 400 vor Christus: Demokrit und das Teilchenmodell: Demokrit, ein altgriechischer Gelehrter, äußerte als erster die Vermutung, dass die Welt aus unteilbaren Teilchen - (griechisch a-tomos = unteilbar) Atomen - bestände. Daneben gäbe es nur leeren Raum. Alle Eigenschaften der Stoffe ließen sich, nach Meinung Demokrits, auf die Abstoßung und Anziehung dieser kleinen Teilchen erklären. Diese Idee wurde von den Zeitgenossen Demokrits abgelehnt, da man damals die Welt als etwas Göttliches ansah. Demokrits philosophischer Kontrahent war vor allem Empedokles, der die Lehre von den vier Elementen Feuer, Erde, Luft und Wasser begründete. Demokrits Vorschlag blieb fast zwei Jahrtausende unbeachtet.
+
+um 1400: Die Alchemisten – Gold kann nicht hergestellt werden: Auch wenn die Alchemisten in ihren Versuchen, aus preiswerten Stoffen (wie etwa Blei) Gold herzustellen, scheiterten, leisteten sie Vorarbeit für die spätere experimentelle Physik und Chemie.
+
+1803: John Dalton: Atomtheorie der Elemente: Der englische Chemiker John Dalton griff als erster wieder die Idee von Demokrit auf. Aus konstanten Mengenverhältnissen bei chemischen Reaktionen schließt Dalton darauf, dass immer eine bestimmte Anzahl von Atomen miteinander reagiert.
+
+1896: Henri Becquerel – Radioaktivität: Becquerel entdeckt, dass von bestimmten Stoffen verschiedene Arten von Strahlen ausgehen (Radioaktivität).
+
+1897: Joseph John Thomson – Elektron: Bei Versuchen mit elektrischem Strom stellte der britische Physiker Thomson fest, dass Strahlen in Vakuumröhren aus kleinen Teilchen bestehen: den Elektronen. Damit war ein erster Bestandteil der Atome gefunden, obwohl man von der Existenz der Atome immer noch nicht überzeugt war. Eine Besonderheit war die Entdeckung vor allem deshalb, weil man dachte, Elektrizität wäre eine Flüssigkeit.
+
+1898: Marie und Pierre Curie – radioaktive Umwandlung chemischer Elemente: Immer mehr Forscher beschäftigten sich mit den kleinsten Teilchen. Sie untersuchten unter anderem Uran, das sie aus Pechblende gewannen. Marie Curie erkannte, dass sich aus einem radioaktiven Element in manchen Fällen ein anderes Element bildet.
+
+1900: Ludwig Boltzmann – Atomtheorie: Boltzmann war ein theoretischer Physiker, der die Ideen von Demokrit umsetzte. Er berechnete aus der Idee der Atom-Existenz einige Eigenschaften von Gasen und Kristallen. Da allerdings experimentelle Nachweise fehlten, waren damals seine Ideen umstritten.
+
+1900: Max Planck – Quanten: Der Berliner Physiker Planck untersuchte die Schwarzkörperstrahlung. Bei der theoretischen, thermodynamischen Begründung seiner Formel führte er die so genannten Quanten ein und wurde somit zum Begründer der Quantenphysik.
+
+1905: Albert Einstein – Erklärung der Brownschen Bewegung: In der dritten Arbeit des „annus mirabilis“ erklärte Albert Einstein die Brownsche Bewegung mit Hilfe der Atomhypothese. Damit wurde zum ersten Mal ein beobachtbares physikalisches Phänomen direkt aus Boltzmanns Theorie hergeleitet.
+
+1906: Ernest Rutherford – Experimente zum Atommodell: Rutherford ging experimentell auf die Suche nach den Atomen. 1906 entdeckte er mit dem rutherfordschen Experiment, dass Atome nicht massiv, sondern aus Kern und Hülle zusammengesetzte Systeme sind. (Damit ist die Bezeichnung „Atom“ im Grunde falsch, wurde aber beibehalten.) Aus dem Experiment leitete Rutherford bis 1911 die Größe eines Atoms, also der Atomhülle, und der Größe des Atomkerns ab. Ferner konnte er ermitteln, dass der Atomkern die positive Ladung, die Atomhülle eine entsprechende negative Ladung trägt; so entdeckte er das Proton.
+
+1913: Niels Bohr – Schalenmodell: Aus dem rutherfordschem Atommodell entwickelte der dänische Physiker Niels Bohr ein planetenartiges Atommodell. Danach bewegen sich die Elektronen auf bestimmten Bahnen um den Kern, wie Planeten die Sonne umkreisen. Die Bahnen werden auch als Schalen bezeichnet. Das Besondere daran war, dass die Abstände der Elektronenbahnen nach streng mathematischen Gesetzmäßigkeiten festliegen, während nach der klassischen Physik beliebige Abstände möglich sein müssten. Jede Schale besitzt eine maximale Kapazität für Elektronen. Atome streben Bohr zufolge an, dass alle Bahnen komplett besetzt sind. Damit haben sich sowohl viele chemische Reaktionen erklären lassen als auch die Spektrallinien des Wasserstoffs. Da sich das Modell für komplexere Atome als unzureichend erwies, wurde es 1916 von Bohr und dem deutschen Physiker Arnold Sommerfeld insofern verbessert, als man nun für bestimmte Elektronen exzentrische, elliptische Bahnen annahm. Das bohr-sommerfeldsche Atommodell erklärt viele chemische und physikalische Eigenschaften von Atomen.
+
+1929: Erwin Schrödinger, Werner Heisenberg und andere: Das Orbitalmodell: Aufbauend auf Schrödingers Wellenmechanik und Heisenbergs Matrizenmechanik wurde ein weiteres, bis heute modernes Atommodell entwickelt, das weitere Unklarheiten beseitigen konnte.
+
+1929: Ernest O. Lawrence - Der erste Teilchenbeschleuniger, das Zyklotron: Um Informationen über den Aufbau der Atomkerne zu bekommen, wurden die Kerne mit Strahlen beschossen. Um nicht auf die schwache natürliche Strahlung angewiesen zu sein, entwickelte Lawrence das Zyklotron, in dem geladene Teilchen auf kreisähnlichen Bahnen beschleunigt werden.
+
+1932: Paul Dirac und David Anderson - Antimaterie: Der theoretische Physiker Paul Dirac fand eine Formel, mit der sich bestimmte Beobachtungen der Atomphysik beschreiben lassen. Allerdings setzte diese Formel die Existenz von Anti-Teilchen voraus. Diese Idee stieß auf heftige Kritik, bis der amerikanische Physiker Anderson in der kosmischen Strahlung das Positron nachweisen konnte. Dieses Antiteilchen zum Elektron trägt eine positive Ladung, hat aber die gleiche Masse wie ein Elektron. Treffen ein Teilchen und sein Antiteilchen zusammen, können sie sich durch Annihilation gegenseitig „vernichten“, besser gesagt, in eine andere Energieform (Gammastrahlung) umwandeln.
+
+1932: James Chadwick – Neutron: Das Neutron wurde von dem englischen Physiker James Chadwick entdeckt.
+
+1933: Irène und Frédéric Joliot-Curie – Energie wird zu Masse: Eher zufällig beobachten die Eheleute Irène und Frédéric Joliot-Curie, dass sich nicht nur Masse in Energie umwandeln lässt, sondern dass dies auch umgekehrt möglich ist. In einem Experiment verwandelte sich ein Lichtstrahl in ein Elektron und ein Positron (Paarbildung).
+
+1938: Otto Hahn und Lise Meitner – Die erste Kernspaltung: Der deutsche Chemiker Hahn, ein Schüler Rutherfords, untersuchte weiter die Atomkerne. Dazu beschoß er Uran-Atome mit Neutronen und erhielt Caesium und Rubidium oder Strontium und Xenon. Was eigentlich passierte, konnten er und sein Mitarbeiter Strassmann nicht erklären. Dies gelang jedoch seiner Mitarbeiterin Lise Meitner, die aufgrund ihrer jüdischen Religion vor den Nazis nach Schweden geflohen war. Sie stellte fest, dass die Summe der Kernteilchen (Protonen und Neutronen) bei den Produkten der des Urans entspricht. Hahn erhielt den Nobelpreis. Als Entdecker der Kernspaltung werden bis heute oft nur Hahn und Strassmann, nicht Meitner genannt.
+
+1938: Hans Bethe – Kernfusion in der Sonne: Neben zahlreichen Beiträgen zum Aufbau der Atome erforschte der in Straßburg geborene Bethe die Energieproduktion in Sternen. Er stellte fest, dass in unserer Sonne jeweils zwei Wasserstoff-Atomkerne miteinander verschmelzen, während in größeren und helleren Sternen Kohlenstoff-Kerne in die schwereren Stickstoff-Kerne verwandelt werden. Bethe arbeitete auch in Los Alamos an der Entwicklung der Atombombe mit, wurde aber nach dem Krieg ein engagierter Gegner von Massenvernichtungswaffen.
+
+1942: Enrico Fermi – Der erste Kernreaktor: Der italienische Physiker Fermi erkannte die Möglichkeit, die Kernspaltung für eine Kettenreaktion zu nutzen. Die bei der Spaltung von Uran freiwerdenden Neutronen konnten für die Spaltung weiterer Kerne verwendet werden. Damit legte Fermi die Grundlagen sowohl für die kriegerische Nutzung der Kernenergie in Atombomben als auch die friedliche Nutzung in Kernreaktoren. Fermi baute den ersten funktionierenden Versuchsreaktor.
+
+1942: Werner Heisenberg – Uranprojekt im nationalsozialistischen Deutschland: Die Nationalsozialisten beauftragten den Physiker Heisenberg, mit seinen Mitarbeitern die Einsatzmöglichkeiten der Kernspaltung als Energiequelle („Uranmaschine“) oder als Waffe zu untersuchen. Wegen der voraussichtlichen Entwicklungsdauer wurde jedoch der Waffenplan niemals ernsthaft verfolgt. Die Gruppe betrieb Grundlagenforschung an Versuchs-Reaktoranlagen, zuletzt 1945 in einem geheimen Labor in Haigerloch. Kritikalität, also eine sich selbst erhaltende Kettenreaktion, wurde jedoch wegen Mangels an Uran nicht erreicht.
+
+1942: Albert Einstein und Leo Szilard – Roosevelt soll die Atombombe bauen: Eigentlich hat Einstein selber nicht zum Bau der Atombombe beigetragen. Er unterstützte aber einen Brief an den amerikanischen Präsidenten Roosevelt, dass die Atombombe unbedingt vor den Nazis entwickelt werden solle. Auch der ungarische Universalgelehrte Szilard erkannte die Gefahr, die von einer deutschen Atombombe ausging. Er lieferte zwar wichtige Ideen für den Bau der Atombombe, war aber an deren Entwicklung in Los Alamos nicht beteiligt. Auch später warnte Szilard noch vor dem Gebrauch der Atombombe.
+
+1945: J. Robert Oppenheimer – Die erste Atombombe: Oppenheimer war der Organisator, der in Los Alamos eine Gruppe ausgezeichneter Physiker und Ingenieure versammelte. So gelangen innerhalb kürzester Zeit Entwicklung und Bau von Atombomben, das Manhattan-Projekt. Nach dem Einsatz der Atombomben in Hiroshima und Nagasaki wurde Oppenheimer zum Gegner von Atombomben.
+
+1951: Erwin Wilhelm Müller – Das Feldionenmikroskop: Müller gelingt mit der Konstruktion eines Feldionenmikroskopes erstmals die direkte Abbildung von Atomen auf einer Wolfram-Spitze.
+
+1952: Edward Teller – Die Wasserstoffbombe: Der ungarische Physiker Teller war Mitarbeiter von Oppenheimer. Allerdings hatte er eine weitergehende Idee. Er wollte eine Bombe auf der Basis der Kernfusion bauen, die Bethe in der Sonne nachgewiesen hatte. Aus Angst vor dem Kommunismus wurde Teller zu einem Rüstungsfanatiker und entwickelte die Wasserstoffbombe.
+
+1960: Donald A. Glaser – Die Blasenkammer: Nach dem Ende des Zweiten Weltkrieges konzentrierte sich die Forschung auf den Aufbau der Elementarteilchen. Mit der Entwicklung der Blasenkammer durch Glaser hatte man nun eine Möglichkeit, die kleinsten Teilchen, die in Teilchenbeschleunigern entstanden, zu „sehen“.
+
+1964: Murray Gell-Mann – Die Quarks: Mit Hilfe der Blasenkammer konnte auf einmal eine riesige Anzahl an bisher unsichtbaren Teilchen sichtbar gemacht werden, die Widersprüche zu der bisherigen Physik darstellten. Um dies zu erklären, postulierte Gell-Mann Grundbausteine, aus denen die Kernbausteine aufgebaut sein sollen. Mittlerweile gibt es sehr viele Indizien für die Existenz der Quarks, auch wenn sie einzeln nicht zu beobachten sind.
+
+1978: Der Kernfusionsreaktor: Zur technischen Nutzung der Energie, die bei Kernverschmelzungsreaktionen (Kernfusion) frei wird, beginnt man, Kernfusionsreaktoren zu entwickeln. Bislang konnte aber nur für sehr kurze Zeit mehr Leistung gewonnen werden, als in den Prozess hineingesteckt werden muss.
+
+1995: Eric Cornell, Wolfgang Ketterle und Carl Wieman – Das Bose-Einstein-Kondensat: In einem ultrakalten Gas aus Rubidium-Atomen wird von Cornell, Ketterle und Wieman erstmals ein Bose-Einstein-Kondensat hergestellt, ein von Einstein vorhergesagter Zustand der Materie.
+
+2000: CERN – Das Higgs-Boson: Das Europäische Kernforschungszentrum CERN in Genf forscht mittels eines Beschleunigers nach dem Higgs-Boson, das als Erlöser-Teilchen bezeichnet wird, weil seine Existenz die bestehenden Theorien zur Elementarteilchenphysik bestätigen würde. Bisher gibt es keine eindeutigen experimentellen Belege für die Existenz des Higgs-Bosons.
+
+2002: Brookhaven – seltsame Materie: Im Schwerionenbeschleunigerring RHIC (relativistic heavy ion collider) im amerikanischen Brookhaven prallen Goldionen hoher Energie aufeinander. Dabei sollen sie für extrem kurze Zeit und in einem sehr kleinen Raumbereich ein Quark-Gluon-Plasma erzeugen. Dies ist ein Zustand der Materie, der heute in der Natur nicht mehr vorkommt, aber vermutlich unmittelbar nach dem Urknall existierte.
+
+Zitate [Bearbeiten]
+
+    * Nur scheinbar hat ein Ding eine Farbe, nur scheinbar ist es süß oder bitter; in Wirklichkeit gibt es nur Atome und den leeren Raum. – Demokrit (5. Jahrhundert v. Chr.)
+    * Richard Feynman hat einmal gesagt, müsste er das wichtigste Ergebnis der modernen Naturwissenschaft in einem Satz zum Ausdruck bringen, entschiede er sich für: „Die Welt besteht aus Atomen.“ – Brian Greene, „Der Stoff, aus dem der Kosmos ist“ [1].
+    * Nach einigen Schätzungen hat jeder Mensch in seinem Körper ca. eine Milliarde Atome, die bereits einst zu Shakespeare gehörten, bzw. zu Dschingis Khan, Buddha oder Mozart. Durch den ewigen Kreislauf und die wohl enorme Langlebigkeit von Atomen, ist eine permanent neue Verwendung als Tautropfen, Blatt oder neuer Mensch möglich. Paul Davies, „Das fünfte Wunder“[2].
+
+Literatur [Bearbeiten]
+
+    * Bernhard Bröcker: dtv Atlas Atomphysik: Tafeln und Texte. 6. Aufl. 1997. ISBN 3-423-03009-7.
+
+Einzelnachweise [Bearbeiten]
+
+   1. ↑ Brian Greene: Der Stoff, aus dem der Kosmos ist: Raum, Zeit und die Beschaffenheit der Wirklichkeit. Siedler, 2004, ISBN 388680738X, S. 255. 
+   2. ↑ Paul Davies: Das fünfte Wunder. Auf der Suche nach dem Ursprung des Lebens. Scherz, 2002, ISBN 3502191603. 
+
+Siehe auch [Bearbeiten]
+
+    * Atomabsorption
+    * Kernwaffe
+    * Atommasse
+    * Heisenbergsche Unschärferelation
+    * Kernmodell
+    * Kernreaktion
+    * Liste der Minerale
+    * Nebelkammer
+    * Strahlenschutz
+    * Superatom
+    * Teilchendetektor
+    * Teilchenquelle
+    * Wechselwirkung
+
+Weblinks [Bearbeiten]
+Commons Commons: Atoms – Bilder, Videos und Audiodateien
+Wiktionary Wiktionary: Atom – Bedeutungserklärungen, Wortherkunft, Synonyme, Übersetzungen und Grammatik
+
+    * HydrogenLab: Wie sieht ein Atom aus?
+    * Das Atom im Jugendportal des Informationskreises Kernenergie
+    * Übersicht über die verschiedenen Atommodelle
+
+Von „http://de.wikipedia.org/wiki/Atom“
+Kategorie: Atomphysik

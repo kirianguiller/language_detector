@@ -1,0 +1,205 @@
+Atom [szerkesztés]
+A Wikipédiából, a szabad enciklopédiából.
+Ugrás: navigáció, keresés
+
+    Ez a szócikk a fizikai részecskéről szól. Hasonló címmel lásd még: Atom (egyértelműsítő lap).
+
+Atom
+Az atom szerkezete
+
+Az elektronok az atommag körül felhőt alkotnak
+Meghatározás
+A kémiai elem legkisebb egysége
+Tulajdonságok
+Tömeg: 	atomtömeg
+Elektromos töltés: 	0 C
+Átmérő: 	10pm-100pm
+
+A kémiában az atom a kémiai elemek legkisebb olyan mennyisége, ami még őrzi az elem kémiai tulajdonságait. Ilyen értelemben az atomok a molekulák és az anyag alapvető összetevői.
+
+A modern természettudományok kísérletileg igazolták azt, hogy az anyag ilyen részecskékből áll, ezeket kezdetben oszthatatlannak gondolták. Később azonban bebizonyosodott, hogy nevükkel ellentétben az atomok maguk is szubatomi részecskékből épülnek fel.
+
+Az atom a filozófiában valaminek – például a térnek, az időnek, a folytonosságnak, vagy az anyagnak – a valamilyen szempontból való elemi, tovább már nem osztható egységeit jelenti (atomosz gör. „oszthatatlan”). A fizikában ezeket elemi részecskéknek nevezzük.
+Tartalomjegyzék
+[elrejtés]
+
+    * 1 Atomelmélet
+    * 2 Szerkezete
+    * 3 Az atomok kölcsönhatásai
+    * 4 Atommodellek
+    * 5 Etimológia
+    * 6 Lásd még
+    * 7 Külső hivatkozások
+
+Atomelmélet [szerkesztés]
+Bővebben: Atomelmélet
+
+Az atomelmélet az anyag természetének elmélete. Alapvető állítása, hogy az anyag atomokból áll.
+
+Szerkezete [szerkesztés]
+
+Az atom átmérője 100 pm (10−10 m) nagyságrendű; térfogatának nagy része üres. A középpontjában található egy nagyon kis méretű atommag: tipikus átmérője 10 fm (10−14 m). A nagyságrendi különbség annyit jelent, hogy ha egy atomot 100 méter átmérőnyire nagyítanánk (mint egy nagyobb vár vagy egy harmincemeletes toronyház), akkor atommagja mindössze kavics méretű lenne (1 cm).
+
+Ez a parányi atommag hordozza az atom tömegének szinte teljes egészét. Mivel csak protonokból és neutronokból (közös nevükön: nukleonokból) áll, az atommag töltése pozitív. A teljes atom azonban semleges, mivel a protonok töltését alapesetben azonos számú elektron egyensúlyozza ki. Az atom üresen maradó térfogatának nagy részét elektronok töltik ki, amelyek bizonyos gömbfelületek, ún. héjak mentén haladnak, és együttesen alkotják az elektronfelhőt.
+
+Az atomokat általában rendszámuk – ami a magban levő protonok száma – alapján osztályozzuk. Az azonos rendszámú atomok kémiai tulajdonságai, valamint fizikai tulajdonságainak nagy része ugyanaz. A már felfedezett atomokat a periódusos rendszer sorolja fel. A legegyszerűbb atom a hidrogénatom, amelynek rendszáma 1, és amit 1 proton alkot 1 elektronnal. A tudományban nagy érdeklődésnek örvendett, különösen a kvantumelmélet fejlődésének korai szakaszában.
+
+Az azonos rendszámú, de különböző neutronszámú atomokat izotópoknak hívjuk: eltérő neutronszámuk miatt a tömegük is különböző. Az izotópok kémiai tulajdonságai közelítőleg megegyeznek, de élettartamuk rendkívül eltérő lehet. A természetben rendszerint valamelyik izotóp van túlsúlyban: a hidrogén izotópjai közül például 6500 db 1-es tömegszámú atomra jut egy db 2-es tömegszámú izotóp.
+
+Az atomok kölcsönhatásai [szerkesztés]
+
+Az atomok kémiai viselkedését leginkább elektronjainak kölcsönhatásai határozzák meg, különösképpen a legkülső héjon levőké, amiket vegyértékelektronoknak hívunk. A belső héjakon levő ún. törzselektronok játszanak ugyan szerepet, de leginkább az atommag pozitív töltésének árnyékolásában.
+
+Mint minden fizikai és kémiai rendszerben, az atomokban is erős a késztetés az energiaminimum elérésére. Ezt az atomok az ún. nemesgáz-konfiguráció kialakításával érik el: legkülső elektronhéjuk ilyenkor teljesen fel van töltve elektronokkal. Ilyen állapot elérésére kémiai reakciókban nyílik mód az atomok számára, vagyis megfordítva: a kémiai reakciók „motorja” az energiaminimumra, illetve a nemesgáz-konfiguráció elérésére való törekvés.
+
+Elektronok megosztása esetén kovalens kötés formálódik a két atom között, ez az atomok közötti legerősebb kötés. Ha egy vagy több elektront teljesen elvonunk egy atomtól, vagy hozzáadunk egy atomhoz, akkor ion jön létre. Az ionok elektromos töltéssel rendelkeznek, mivel a bennük levő protonok és elektronok száma különbözik. Elektrontöbblet esetén negatív ion jön létre (anion), elektronhiány esetén pedig pozitív töltésű (kation). A kationok és anionok a Coulomb-erővel vonzzák egymást. Az így létrejövő kötést ionos kötésnek hívjuk, ami a kovalens kötésnél gyengébb.
+
+Ahogy leírtuk, a kovalens kötés azt jelenti, hogy az atomok az elektronjaikat egyenlően megosztják, míg az ionos azt, hogy az elektronok teljesen az anionhoz rendelődnek. Kis számú extrém esettől eltekintve azonban egyik kép sem teljesen pontos. Az esetek többségében a kovalens kötés során az elektronok egyenlőtlenül osztódnak meg, több időt töltve az elektronegatívabb atom körül, így némi ionos jelleget adva a kovalens kötésnek. Hasonlóképpen ionos kötés esetén az elektronok idejük kis részét az elektropozitívabb atom körül töltik, kissé kovalens jellegűvé téve az ionos kötést.
+
+
+Atommodellek [szerkesztés]
+
+    * Demokritész atommodellje
+    * A Thomson-atommodell
+    * A Bohr-atommodell
+    * Az atom hullámmodellje
+    * Az atom cseppmodellje
+    * Az atom héjmodellje
+
+Etimológia [szerkesztés]
+
+Az atom szó a görög atomosz ('oszthatatlan') szóból származik.
+
+Lásd még [szerkesztés]
+
+    * Atomium (építmény Brüsszelben)
+
+Külső hivatkozások [szerkesztés]
+
+    * Magmodellek (magyar)
+    * Radnóti Katalin: Klasszikus atommodellek, Élet és Tudomány, 1998
+
+
+A fizika részterületei 	Szerkeszt
+
+Klasszikus mechanika | Szilárd anyagok fizikája | Kontinuumok mechanikája | Elektromágnesség |
+Asztrofizika | Általános relativitáselmélet | Részecskefizika | Kvantumtérelmélet | Kvantummechanika |
+Szilárdtestfizika | Speciális relativitáselmélet | Statisztikus fizika | Termodinamika
+
+A lap eredeti címe: „http://hu.wikipedia.org/wiki/Atom”
+Kategóriák: Héjfizika | Kémia
+Klasszikus mechanika [szerkesztés]
+A Wikipédiából, a szabad enciklopédiából.
+Ugrás: navigáció, keresés
+
+A klasszikus mechanika az anyagi test mozgásának törvényszerűségeivel foglalkozik. A fizikának ezt a fejezetét ugyanakkor newtoni mechanikának is nevezzük (a fizikusról, aki ezeket a törvényszerűségeket először felfedezte).
+
+
+Klasszikus mechanika
+\vec{F} = \frac{\mathrm{d}(m \vec{v})}{\mathrm{d}t}
+Newton törvényei:Második törvénye
+Történet
+▼ kinyitAlapfogalmak
+Tér · Idő · Tömeg · Sebesség · Gyorsulás · Impulzus · Erő
+▼ kinyitKépletek
+Newton-féle mechanika
+Lagrangeféle mechanika
+Hamilton-féle mechanika
+▼ kinyitÁgak
+Égi mechanika
+Kontinuummechanika
+Geometriai optika
+Statisztikus mechanika
+▼ kinyitA tudomány képviselői
+Galilei · Hamilton · Kepler
+Lagrange · Newton
+megnézi • vitatja • szerkeszti a sablont
+
+A világnak a klasszikus mechanikától való eltérése nagy sebességek esetén és nagy tömegek környezetében nyilvánul meg, amire az Albert Einstein megalkotta relativitáselmélet ad pontos modellt; valamint kicsi tárgyak (atom elektronja) esetén, ekkor a kvantummechanika írja le pontos(abb)an a világot.
+Tartalomjegyzék
+[elrejtés]
+
+    * 1 Részterületei
+    * 2 A klasszikus mechanika elmélete
+          o 2.1 Pontszerű részecskék helyzete
+          o 2.2 Sebesség
+          o 2.3 Gyorsulás
+          o 2.4 Erő
+          o 2.5 Munka, energia
+    * 3 Külső hivatkozások
+
+
+Részterületei [szerkesztés]
+
+    * Kinematika (mozgástan): a testek mozgásviszonyával foglalkozik, nem veszi figyelembe ezek kölcsönhatását egymással;
+    * Dinamika (erőtan): a testek kölcsönhatásával foglalkozik;
+    * Statika, vagy kinetika: a testek egyensúlyi állapotát és az erők összetételét vizsgálja.
+
+A vizsgált objektumok szempontjából beszélhetünk tömegpontok, merev testek, rugalmas testek, folyadékok és gázok fizikájáról (hidrodinamika és aerodinamika).
+
+A klasszikus mechanika elmélete [szerkesztés]
+
+A következőkben a klasszikus mechanika alapfogalmaival fogunk megismerkedni. A jelenségek leírásakor az egyszerűség kedvéért pontszerű részecskéket, elhanyagolható méretű objektumokat használunk. A pontszerű részecske mozgása néhány paraméterrel leírható: helyzetével, tömegével és a rá ható erőkkel. A valóságban létező testek mérete természetesen nem elhanyagolható. Az "igazi" pontszerű részecskék, mint pl. az elektron viselkedésének pontosabb leírásával a kvantummechanika foglalkozik. A kiterjedéssel rendelkező testek viselkedése sokkal bonyolultabb, mint a hipotetikus pontszerű részecskéké, mivel szabadsági fokuk is van. Képzeljünk el pl. egy baseball labdát, amely mozgás közben pörög is. Mozgásának leírásához több paraméterre van szükség. Mégis, a valós testekre szintén alkalmazhatóak a pontszerű részecskék esetében megfigyelt törvényszerűségek, mivel ezeket az objektumokat felfoghatjuk pontszerű részecskék egymással kapcsolatban álló halmazaként. Ezen testek tömegközéppontja már pontszerű részecskeként kezelhető.
+
+Pontszerű részecskék helyzete [szerkesztés]
+
+Egy pontszerű részecske helyzete leírható, egy, a térben rögzített ponthoz viszonyított helyzetével. Ezt a viszonyítási pontot gyakran origónak nevezzük. A részecske helyzete tehát megadható az O pontból a részecskéíg húzott v vektorral. Ha a részecske mozog, és nem nyugalomban van, akkor a v vektor nagysága és iránya az idő függvényében változik. A klasszikus mechanikában az időt minden vonatkoztatási rendszerre nézve abszolútnak tekintjük. Az abszolút idő mellett az Euklidészi geometria e tudományág másik fő ismérve.
+
+Sebesség [szerkesztés]
+
+A sebesség a helyváltoztás mértéke az idő függvényében. Úgy is mondhatjuk, hogy a sebesség az elmozdulás idő szerinti deriváltja:
+
+v = dr/dt
+
+A klasszikus mechanikában a sebesség additív ill. szubtraktív vektormennyiség, azaz a sebességek a vektorgeometria szabályai szerint összegezhetőek. Pl. ha egy 60km/h sebességgel kelet felé tartó autó megelőz egy 50km/h sebességgel szintén kelet felé haladó másik autót, akkor a második autóhoz rögzített vonatkoztatási rendszer szerint az első autó 60-50=10km/h sebességgel halad kelet felé. Az első autóhoz rögzített vonatkoztatási rendszer szerint viszont a második autó 10km/h sebességgel nyugat felé tart. Matematikai leírásban, ha az első autó sebességét az u = ud vektorral, a második autó sebességét a v = ve vektorral írjuk le, ahol u az első, v pedig a második autó sebessége, a d és az e pedig a mozgás irányába mutató egységvektorok, akkor az első autó sebessége a másodikéhoz képest:
+
+u' = u – v
+
+Ugyanígy:
+
+v' = v – u
+
+Ha mindkét autó egy irányba mozog, az egyenlet tovább egyszerűsíthető:
+
+u' = (u – v) d
+
+Vagy, ha a mozgás irányától eltekintünk:
+
+u' = u – v
+
+Gyorsulás [szerkesztés]
+
+A gyorsulás a sebesség változása az idő függvényében. Úgy is mondhatjuk, hogy a gyorsulás a sebesség idő szerinti deriváltja:
+
+a = dv/dt
+
+Ha a sebesség nagysága csökken, akkor a mozgó test lassul, azonban ezt a lassulást is a gyorsulásra vezetjük vissza.
+
+Erő [szerkesztés]
+
+Newton második törvénye (ld. Newton törvényei) egy test tömegét és sebességét egy vektormennyiséggel kapcsolja össze, amelyet erőnek nevezünk. Ha m a test tömege és F a testre ható erők eredője, akkor Newton második törvénye szerint:
+
+F = d(mv)/dt = dp/dt
+
+Az mv mennyiség neve lendület. Egy testre ható erők eredője tehát egyenlő a test lendületének változásával az idő függvényében. Úgy is mondhatjuk, hogy az erő a lendület idő szerinti deriváltja. Tipikus esetben a test tömege az időben állandó, ekkor Newton törvényét egyszerűsítve a következő képpen adhatjuk meg:
+
+F = ma, ahol a a gyorsulás.
+
+Ha a tömeg az időben nem állandó (pl. egy rakéta esetében, amely mozgás közben elégeti a tömegének egy részét képező hajtóanyagát), akkor az általános képlet használandó.
+
+Munka, energia [szerkesztés]
+
+Ha egy test a rá ható erők hatására Δs elmozdulást végez, akkor az erő a testen mechanikai munkát végez.
+
+ΔW = FΔs
+
+Szorosan összefügg a munka fogalmával az energia fogalma, amely a testek munkavégző képességét jelenti.
+
+Külső hivatkozások [szerkesztés]
+
+
+A fizika részterületei 	Szerkeszt
+
+Klasszikus mechanika | Szilárd anyagok fizikája | Kontinuumok mechanikája | Elektromágnesség |
+Asztrofizika | Általános relativitáselmélet | Részecskefizika | Kvantumtérelmélet | Kvantummechanika |
+Szilárdtestfizika | Speciális relativitáselmélet | Statisztikus fizika | Termodinamika

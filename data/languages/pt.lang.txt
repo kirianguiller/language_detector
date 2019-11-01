@@ -1,0 +1,173 @@
+ Wikipedia não tem fins lucrativos: por favor, faça hoje a sua doação.
+Doe agora »
+[Mostrar]
+Ajude a Wikipedia: um projeto sem fins lucrativos.
+Doe agora »
+Átomo
+Origem: Wikipédia, a enciclopédia livre.
+Ir para: navegação, pesquisa
+Portal 	A Wikipédia possui o(s) portal(is):
+Portal de Química
+{{{Portal2}}}
+{{{Portal3}}}
+{{{Portal4}}}
+{{{Portal5}}}
+
+
+O átomo é a menor partícula que ainda caracteriza um elemento químico. Ele apresenta um núcleo com carga positiva (Z é a quantidade de prótons e "e" a carga elementar) que apresenta quase toda sua massa (mais que 99,9%) e Z elétrons determinando o seu tamanho. [1].
+
+Até fins do século XIX, era considerado a menor porção em que se poderia dividir a matéria. Mas nas duas últimas décadas daquele século, as descobertas do próton e do elétron revelaram o equívoco dessa idéia. Posteriormente, o reconhecimento do nêutron e de outras partículas subatômicas reforçou a necessidade de revisão do conceito de átomo.
+Representação de um átomo de hélio.
+Índice
+[esconder]
+
+    * 1 História
+          o 1.1 Os atomistas na antiga Grécia
+          o 1.2 Átomo: A matéria-prima do universo
+          o 1.3 Evolução Histórica da Idéia de Átomo
+                + 1.3.1 O modelo atômico de Dalton
+                + 1.3.2 O modelo atômico de Thomson
+                + 1.3.3 O modelo atômico de Rutherford
+                + 1.3.4 O modelo atômico de Niels Bohr e a mecânica quântica
+    * 2 Estrutura
+    * 3 Principais Características das Partículas Fundamentais
+          o 3.1 Massa
+          o 3.2 Carga Elétrica
+    * 4 Interação atômica
+    * 5 Força de Van der Waals
+    * 6 Atração atômica
+    * 7 Elementos químicos conhecidos
+          o 7.1 A Tabela Periódica dos Elementos
+    * 8 Moléculas
+    * 9 Ver também
+    * 10 Referências
+
+[editar] História
+
+[editar] Os atomistas na antiga Grécia
+
+Por volta de 400 a.C. os gregos propuseram as primeiras idéias a respeito da constituição da matéria. Demócrito (460 a.C.-370 a.C.) admitiu que qualquer tipo de matéria seria formado por pequenas partículas. As partículas às quais Demócrito se referia receberam o nome de átomo (do grego átomo = indivisível). Várias considerações foram feitas a respeito dos átomos, formulando-se assim uma teoria que pretendia explicar o que era observado apoiada apenas em especulações. De acordo com essas preposições, os átomos de Demócrito deveriam atender às seguintes condições:
+
+    * Os átomos constituíram toda e qualquer matéria;
+    * Os átomos seriam qualitativamente iguais, diferindo, apenas, na forma, no tamanho e na massa.
+
+Para Demócrito, a grande variedade de materiais na natureza provinha dos movimentos dos diferentes tipos de átomos, que, ao se chocarem, formavam conjuntos maiores, gerando diferentes corpos, com características próprias. Os fundamentos de Demócrito para os átomos foram tomando corpo com o passar do tempo. Epicuro (241 a.C. - 270 a.C.) complementou suas idéias ao sugerir que haveria um limite para o tamanho dos átomos, justificando assim a razão de serem invisíveis.
+
+Acreditava-se que a matéria seria constituída de elementos da natureza como fogo, água, terra e ar, que misturados em diferentes proporções resultariam em propriedades físico-químicas diferentes.
+
+Leucipo e Demócrito imaginaram que a matéria não poderia ser dividida infinitamente, mas partindo-a várias vezes, chegaríamos a uma partícula muito pequena: uma esfera indivisível, impenetrável e invisível. Com a ajuda de Lucrécio, a idéia dos filósofos teve rápida propagação.
+
+[editar] Átomo: A matéria-prima do universo
+
+- Naquele tempo (430 a.C.), caminhando pelas areias próximas ao mar Egeu, o filósofo grego Leucipo disse a seu discípulo Demócrito: "Esta areia, vista de longe, parece ser um material contínuo, mas de perto é formada de grãos, sendo um material descontínuo. Assim ocorre com todos os materiais do Universo". "Mas, mestre", interrompeu Demócrito, "como posso acreditar nisso se a água que vemos aqui aparenta continuidade tanto de longe como de perto?"
+
+Respondeu-lhe Leucipo: "Muitos vêem e não enxergam; use os 'olhos da mente', pois estes nunca o deixaram na escuridão do conhecimento. Em verdade, em verdade lhe digo: todos os materiais são feitos de partículas com espaços vazios ou vácuo entre elas. Essas partículas são tão pequenas que mesmo de perto não podem ser vistas. Muitos séculos passarão até que essa verdade seja aceita. Chegará o dia em que essas partículas serão até 'vistas' pelo homem. Ide e ensinai a todos e aqueles que nela acreditarem encontrarão respostas para as suas perguntas sobre o Universo."
+
+[editar] Evolução Histórica da Idéia de Átomo
+
+[editar] O modelo atômico de Dalton
+
+O cientista inglês John Dalton, em 1807, criou um modelo que retomava o antigo conceito dos gregos. Ele imaginou o átomo como uma pequena esfera, com massa definida e propriedades características. Dessa forma, todas as transformações químicas podiam ser explicadas pelo arranjo de átomos.
+
+Dalton concebeu a existência de átomos com propriedades diferentes. E, dessa forma, definiu elemento químico. Os átomos que possuem a mesma massa, tamanho e forma constituem um elemento químico.
+
+Dalton formalizou seu modelo nos seguintes postulados:
+
+Toda matéria é constituída por átomos. Esses são as menores partículas que a constituem; são indivisíveis e indestrutíveis, e não podem ser transformados em outros, nem mesmo durante os fenômenos químicos.
+
+Átomos de elementos químicos diferentes têm massas diferentes e se comportam desigualmente em transformações químicas.
+
+Os átomos de um mesmo elemento químico são idênticos em massa e se comportam igualmente em transformações químicas.
+
+As transformações químicas ocorrem por separação e união de átomos. Isto é, os átomos de uma substância que estão combinados de um certo modo, separam-se, unindo-se novamente de uma outra maneira, formando outras substâncias.
+
+[editar] O modelo atômico de Thomson
+
+Entre 1813 e 1834, um cientista chamado Michael Faraday estudou a relação entre as quantidades de materiais em transformações químicas e de eletricidade necessária para realizar essas transformações. Esses estudos evoluíram até que, em 1891, a unidade mais simples de eletricidade foi determinada e denominada elétron.
+
+A descoberta de partículas com carga elétrica fez com que o modelo atômico de Dalton ficasse superado. Em 1897, Thomson idealizou um experimento para medir a carga elétrica do elétron. Com base em seu experimento, e considerando o átomo eletricamente neutro (com quantidades iguais de partículas positivas e negativas), ele representou o átomo como uma esfera uniforme, de carga positiva, incrustada de elétrons (partículas negativas). Daí vem o nome do modelo:"pudim de passas".
+
+[editar] O modelo atômico de Rutherford
+
+Em 1908, realizando experiências de bombardeio de lâminas de ouro com partículas alfa (partículas de carga positiva, liberadas por elementos radioativos), Rutherford fez uma importante constatação: a grande maioria das partículas atravessava diretamente a lâmina, algumas sofriam pequenos desvios e outras, em número muito pequeno (uma em cem mil), sofriam grandes desvios em sentido contrário.
+
+A partir dessas observações, Rutherford chegou às seguintes conclusões:
+
+    * No átomo existem grandes espaços vazios; a maioria das partículas o atravessava sem sofrer nenhum desvio.
+
+    * No centro do átomo existe um núcleo muito pequeno e denso; algumas partículas alfa colidiam com esse núcleo e voltavam, sem atravessar a lâmina.
+
+    * O núcleo tem carga elétrica positiva; as partículas alfa que passavam perto dele eram repelidas e, por isso, sofriam desvio em sua trajetória.
+
+Pelo modelo atômico de Rutherford, o átomo é constituído por um núcleo central, dotado de cargas elétricas positivas (prótons), envolvido por uma nuvem de cargas elétricas negativas (elétrons).
+
+Rutherford demonstrou, ainda, que praticamente toda a massa do átomo fica concentrada na pequena região do núcleo.
+
+Dois anos depois de Rutherford ter criado o seu modelo, o cientista dinamarquês Niels Bohr o completou, criando o que hoje é chamado modelo planetário. Para Bohr, os elétrons giravam em órbitas circulares, ao redor do núcleo. Depois desses, novos estudos foram feitos e novos modelos atômicos foram criados. O modelo que representa o átomo como tendo uma parte central chamado núcleo, contendo prótons e nêutrons, serve para explicar um grande número de observações sobre os materiais.
+
+[editar] O modelo atômico de Niels Bohr e a mecânica quântica
+
+O modelo planetário de Niels Bohr foi um grande avanço para a comunidade científica, provando que o átomo não era maciço. Segundo a Teoria Eletromagnética, toda carga elétrica em movimento em torno de outra, perde energia em forma de ondas eletromagnéticas. E justamente por isso tal modelo gerou certo desconforto, pois os elétrons perderiam energia em forma de ondas eletromagnéticas, confinando-se no núcleo, tornando a matéria algo instável.
+
+Bohr, que trabalhava com Rutherford, propôs o seguinte modelo: o núcleo contendo os prótons e nêutrons e definiu as órbitas estacionárias, onde o elétron orbitaria o núcleo, sem que perdesse energia. Entre duas órbitas, temos as zonas proibidas de energia, pois só é permitido que o elétron esteja em uma das órbitas. Ao receber um quantum, o elétron salta de órbita, não num movimento contínuo, passando pela área entre as órbitas (daí o nome zona proibida), mas simplesmente desaparecendo de uma órbita e reaparecendo com a quantidade exata de energia. Se um pacote com energia insuficiente para mandar o elétron para órbitas superiores encontrar o elétron, nada ocorre. Mas se um fóton com a energia exata para que o elétron salte para órbitas superiores, ele certamente o fará, depois, devolvendo a energia absorvida em forma de ondas eletromagnéticas.
+
+[editar] Estrutura
+Se o núcleo de um átomo fosse do tamanho de um limão com um raio de 3cm, os elétrons mais afastados estariam cerca de 3Km de distância.
+
+Os cientistas, por meio de técnicas avançadas, já perceberam a complexidade do átomo. Já comprovaram a presença de inúmeras partículas em sua constituição e desvendaram o comportamento dessas partículas. Mas para construir alguns conceitos que ajudam a entender a química do dia-a-dia, o modelo de átomo descrito por Rutherford-Bohr é suficiente. Na constituição dos átomos predominam os espaços vazios. O núcleo, extremamente pequeno, é constituído por prótons e nêutrons. Em torno dele, constituindo a eletrosfera, giram os elétrons.
+
+O diâmetro da eletrosfera de um átomo é de 10,000 a 100,000 vezes maior que o diâmetro de seu núcleo, e sua estrutura interna pode ser considerada , para efeitos práticos, oca; pois para encher todo este espaço vazio de prótons e nêutrons (ou núcleos) necessitaríamos de um bilhão de milhões de núcleos...
+
+O átomo de hidrogênio é constituído por um só elétron, que gira em torno de um só próton. O hidrogênio é o único elemento cujo átomo não possui nêutrons.
+
+O elétron e o próton possuem a mesma carga, porém não a mesma massa. O próton é 1836,11 vezes mais massivo que o elétron. Usando, como exemplo hipotético, um átomo de vinte prótons e vinte nêutrons em seu núcleo, e este estando em equilíbrio eletrodinâmico, terá vinte elétrons orbitando em suas camadas exteriores. Sua carga elétrica estará em perfeito equilíbrio eletrodinâmico, porém 99,97% de sua massa encontrará-se no núcleo. Apesar do núcleo conter praticamente toda a massa, seu volume em relação ao tamanho do átomo e de seus orbitais é minúsculo. O núcleo atômico mede em torno de 10 - 13 centímetros de diâmetro, enquanto que o átomo mede cerca de 10 − 8 centímetros.
+
+[editar] Principais Características das Partículas Fundamentais
+
+[editar] Massa
+
+Determinar a massa de um corpo significa comparar a massa deste corpo com outra tomada como padrão.
+
+A unidade de massa tomada como padrão é o grama (g). Mas nós muitas vezes utilizamos o Quilograma, que equivale a 1000 vezes a massa de 1 g. Um exemplo disso é quando se diz que a massa de uma pessoa é 45 vezes a massa correspondente à do quilograma.
+
+Ou ainda: 45 kg = 45 x 1000 g = 45 000 g
+
+Como as partículas que constituem o átomo são extremamente pequenas, uma unidade especial teve que ser criada para facilitar a determinação de suas massas. Essa unidade, denominada unidade de massa atômica, é representada pela letra u.
+
+1 u equivale a aproximadamente 1,66 · 10-27 kg (veja artigo Unidade de massa atômica).
+
+As massas do próton e do nêutron são praticamente iguais: medem 1 unidade de massa atômica. A massa do elétron é 1836 vezes menor que a do próton: essa massa é desprezível, porém é errado dizer que o elétron é desprovido dela.
+
+[editar] Carga Elétrica
+
+O elétron é uma partícula dotada de carga elétrica negativa. A sua carga, que foi determinada experimentalmente em 1908, equivale a uma unidade de carga elétrica (1 ue). A carga do próton é igual à do elétron, só que de sinal contrário. o próton tem carga elétrica positiva. O nêutron não possui carga elétrica. Como seu nome indica, ele é neutro.
+
+[editar] Interação atômica
+
+Se tivermos dois átomos hipotéticos, cuja carga elétrica seja neutra, presume-se que estes não se afetarão mutuamente por causa da neutralidade da força electromagnética entre si. A distribuição de cargas no átomo se dá de forma diversa. A carga negativa é externa, a carga positiva é interna, isto ocorre por que os elétrons orbitam o núcleo. Quando aproximamos dois átomos, mesmo estando em perfeita neutralidade interna, estes se repelem, se desviam ou ricocheteiam.
+
+Exemplo típico ocorre no elemento hélio (He) onde seus átomos estão em eterno movimento de mútuo ricochete. Em temperatura ambiente, o gás hélio tem no movimento de seus átomos um rápido ricochete. Ao diminuir a temperatura, o movimento oscilatório diminui, o volume fica menor e a densidade aumenta. Chegaremos teoricamente num ponto em que o movimento de ricochete diminuirá tanto que não se poderá mais retirar energia deste. A este nível térmico, damos o nome de zero absoluto, este é –273,18 °C.
+
+[editar] Força de Van der Waals
+
+A carga eletrônica não se distribui de maneira uniforme, algumas partes da superfície atômica são menos negativas que outras. Em função disto, a carga positiva que se encontra no interior do átomo infiltrar-se-á pelas áreas menos negativas externas, por isso haverá uma débil atração eletrostática entre os dois átomos chamada de força de Van der Waals.
+
+Em baixíssima temperatura, os átomos de hélio movem-se muito lentamente, seu ricochete diminui a tal grau que é insuficiente para vencer as forças de Van der Waals, como o átomo de hélio é altamente simétrico, por este motivo as forças atuantes neste elemento são muito fracas. A contração do hélio ocorre e este acaba por se liquefazer a 4,3 graus acima do zero absoluto.
+
+Nos demais gases presentes na natureza sua distribuição de cargas é menos simétrica que no hélio, as forças de Van der Waals são maiores ocasionando uma liquefação em temperaturas maiores.
+
+[editar] Atração atômica
+
+Nas regiões externas dos átomos, a distribuição eletrônica se dá em camadas, sua estrutura apresenta a estabilidade máxima se estas estiverem completas. Com exceção do hélio e outros elementos com estabilidade e simetria semelhante, geralmente a camada mais exterior do átomo é incompleta, ou podem possuir excesso de elétrons. Em função disto pode haver a transferência de um ou dois elétrons do átomo em que estão em excesso, para o átomo em que estão em falta, deixando as camadas externas de ambos em equilíbrio.
+
+O átomo que recebe elétrons ganha carga negativa, e o que perdeu não equilibra totalmente sua carga nucléica, positiva. Ocorre então o aglutinamento atômico.
+
+Existe ainda o caso de dois átomos colidirem. Ocorrendo, há o compartilhamento eletrônico entre ambos que passam a ter suas camadas mais externas completas desde que permaneçam em contato.
+
+[editar] Elementos químicos conhecidos
+
+    Ver artigo principal: Tabela Periódica
+
+É importante ter em mente que, átomo, é uma entidade elementar. O conjunto de átomos que apresentam o mesmo número atômico (Z) é chamado de Elemento Químico. Desta forma, na Tabela Periódica dos Elementos, a idéia de entidade elementar é substituída pela idéia de "conjunto".
+
+Ex.: Ao procurar pelo Carbono na Tabela Periódica, você deve saber que está procurando pelo Elemento Carbono e não pelo átomo de Carbono.

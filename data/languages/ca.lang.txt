@@ -1,0 +1,286 @@
+ La Viquipèdia és un projecte sense afany de lucre: Si us plau feu un donatiu avui.
+Doneu ara »
+[Expandeix]
+Ajudeu la Viquipèdia, un projecte sense afany de lucre.
+Doneu ara »
+	
+Àtom
+De Viquipèdia
+Dreceres ràpides: navegació, cerca
+Àtom
+Esquema d'un àtom d'heli (no escala)
+Esquema d'un àtom d'heli (no escala)
+Mostrant el nucli, amb dos protons (vermells) i
+dos neutrons (verd) i una òrbita de probabilitat
+(cercle) d'on trobar els dos electrons (groc).
+Classificació
+Porció possible més petita d'un element químic
+Propietats
+Massa: 	≈ 1.66 × 10−27 a 4.52 × 10−25 kg
+càrrega elèctrica: 	zero
+Diàmetre: 	10 pm a 100 pm
+
+Un àtom és la part més petita que forma part d'un sistema químic. És la mínima quantitat d'un element químic que presenta les mateixes propietats de l'element. Tot i que la paraula àtom deriva del grec atomos, que vol dir indivisible, els àtoms estan formats per partícules encara més petites, les partícules subatòmiques.
+
+En general, els àtoms estan composats per tres tipus de partícules subatòmiques. La relació entre aquestes són les que confereixen a un àtom les seves característiques:
+
+    * Electrons, tenen càrrega negativa i són les més lleugeres.
+    * Protons, tenen càrrega positiva i són unes 1836 vegades més pesades que els electrons.
+    * Neutrons, no tenen càrrega elèctrica i pesen aproximadament el mateix que els protons.
+
+Als protons i neutrons, se'ls anomena nucleons, ja que es troben agrupats al centre de l'àtom, formant el nucli atòmic, que és la part més pesada de l'àtom. Orbitant al voltant d'aquest nucli, s'hi troben els electrons.
+
+Aquesta descripció dels electrons orbitant al voltant d'un nucli correspon al senzill model de Bohr. Segons la mecànica quàntica cada partícula té una funció d'ona que ocupa tot l'espai i els electrons no es troben localitzats en òrbites encara que la probabilitat de presència sigui més alta a una certa distància del nucli.
+
+[edita] Propietats
+
+Els àtoms són les unitats bàsiques de la química, i es conserven durant les reaccions químiques, durant les quals els àtoms es reorganitzen, canviant els enllaços entre ells, però no es creen ni es destrueixen. Els àtoms s'agrupen formant molècules i altres tipus de materials. Cada tipus de molècula és la combinació d'un cert nombre d'àtoms disposats d'una manera concreta. Per exemple la molècula d'aigua (H2O) conté dos àtoms d'hidrogen enllaçats a un d'oxigen, i la molècula de metà (CH4) conté sempre quatre àtoms d'hidrogen, units a un de carboni.
+
+    * Nombre atòmic, es representa amb la lletra Z, indica la quantitat de protons que presenta un àtom, que és igual a la d'electrons. Tots els àtoms amb un mateix número de protons pertanyen al mateix element i tenen les mateixes propietats químiques. Per exemple tots els àtoms amb un protó seran d'hidrogen (Z=1), tots els àtoms amb dos protons seran d'heli (Z=2), i així successivament.
+
+    * Nombre màssic, es representa amb la lletra A, i fa referència a la suma de protons i neutrons que conté l'element. Dos àtoms amb el mateix número de protons, però diferent nombre de neutrons, direm que són isòtops. Els isòtops d'un mateix element, tenen unes propietats químiques i físiques molt semblants entre si. Per exemple, el proti és l'isòtop més abundant de l'hidrogen amb un sol protó (Z=1, A=1) i el deuteri és l'isòtop de l'hidrogen amb un protó i un neutró (Z=1, A=2).
+
+Els àtoms neutres, tenen el mateix nombre de protons que d'electrons. Així l'hidrogen (H) té un protó i un electró, i l'oxigen (O) té vuit protons i vuit electrons. Quan arrenquem un o més electrons d'un àtom es forma un ió positiu, o catió, per exemple al arrencar un electró de l'hidrogen es forma H+. Quan es dóna el procés invers, i un àtom adquireix electrons, es forma un ió negatiu o anió, per exemple quan un àtom d'oxigen captura dos electrons es forma l'anió O2-.
+
+[edita] Història
+
+El concepte d'àtom va ser ja proposat per filòsofs grecs com Demòcrit i Leucip i els epicuris. No obstant això va ser oblidat fins que el químic anglès John Dalton va revisar la idea en la seva teoria atòmica. En el segle XIX, gràcies als treballs d'Avogadro, es va començar a distingir entre àtoms i molècules. La visió moderna de la seva estructura interna va haver d'esperar fins a l'experiment de Rutherford el 1911, que va descartar el Model atòmic de Thomson, fet que provocà l'aparició del model atòmic de Bohr. Posteriors descobriments científics, com la teoria quàntica, i avanços tecnològics, com el microscopi electrònic, han permès conèixer amb major detall les propietats físiques i químiques dels àtoms.
+
+Química
+De Viquipèdia
+Dreceres ràpides: navegació, cerca
+
+Aquest article forma part de la sèrie
+Ciència
+Disciplines científiques
+Mètode científic
+Recerca científica
+Matèria
+Física
+Química
+Natura
+Astronomia
+Ciències de la Terra
+Agronomia
+Ecologia
+Vida
+Biologia
+Ciències de la salut
+Humanitats
+Ciències humanes
+Ciències socials
+Antoine Lavoisier, considerat el pare de la química moderna
+Doble hèlice de la molècula d'ADN
+Àtom d'Heli
+
+La química (de l'egipci kēme (kem), que significa "terra") és la ciència que estudia la composició, estructura, i propietats de la matèria i els canvis que aquesta experimenta durant les reaccions químiques. Històricament la química moderna és l'evolució de l'alquímia després de la revolució química (1733).
+
+Les disciplines de la química han estat agrupades per la classe de matèria estudiada o el tipus d'estudi realitzat. Entre aquestes hi trobem la química inorgànica, que estudia la matèria inorgànica; la química orgànica, que tracta de la matèria orgànica; la bioquímica, l'estudi de substàncies en organismes biològics; la química física, que comprèn els aspectes energètics de sistemes químics a escales macroscòpiques, moleculars i submoleculars; la química analítica, que analitza mostres de matèria tractant d'entendre la seva composició i estructura. Altres branques de la química han emergit fa poc temps, per exemple, la neuroquímica, que estudia els aspectes químics del cervell.
+Taula de continguts
+[amaga]
+
+    * 1 Introducció
+    * 2 Història
+    * 3 Subdisciplines de la química
+    * 4 Les aportacions d'autors cèl·lebres
+    * 5 Camp de treball: l'àtom
+    * 6 Conceptes fonamentals
+          o 6.1 Partícules
+          o 6.2 Dels àtoms a les molècules
+          o 6.3 Orbitals
+          o 6.4 Dels orbitals a les substàncies
+          o 6.5 Dissolucions
+          o 6.6 Mesura de la concentració
+          o 6.7 Acidesa
+          o 6.8 Formulació i nomenclatura
+    * 7 Vegeu també
+    * 8 Enllaços externs
+
+[edita] Introducció
+
+La ubicuitat de la química en les ciències naturals fa que sigui considerada com una de les ciències bàsiques. La química és d'importància en molts camps del coneixement, com la ciència de materials, la biologia, la farmàcia, la medicina, la geologia, l'enginyeria i l'astronomia, entre altres.
+
+Els processos naturals estudiats per la química involucren partícules fonamentals (electrons, protons i neutrons), partícules compostes (nuclis atòmics, àtoms i molècules) o estructures microscòpiques com cristalls i superfícies.
+
+Com exemples de reaccions químiques tenim:
+
+    * El resultat de la col·lisió d'una partícula alfa amb el nucli d'un àtom, un àtom o molècula.
+    * La formació de molècules o ions a partir de la col·lisió de dos àtoms.
+    * La fragmentació, ionització o canvi d'estructura d'una molècula després de ser irradiada amb llum.
+    * L'absorció d'un àtom o molècula sobre una superfície.
+    * El fluix d'electrons entre dos sòlids en contacte.
+    * El canvi estructural en una proteïna davant l'estímul apropiat.
+
+Des del punt de vista microscòpic, les partícules involucrades en una reacció química poden considerar-se com un sistema tancat que intercanvia energia amb el seu entorn. En processos exotèrmics, el sistema allibera energia al seu entorn, mentre que un procés endotèrmic solament pot ocórrer quan l'entorn aporta energia al sistema que reacciona. En la gran majoria de les reaccions químiques hi ha flux d'energia entre el sistema i el seu camp d'influència, per la qual cosa podem estendre la definició de reacció química i involucrar l'energia cinètica (calor) com un reactiu o producte.
+
+Encara que hi ha una gran varietat de branques de la química, les principals divisions són:
+
+    * Química orgànica
+    * Química inorgànica
+    * Química física
+
+És comú que entre les comunitats acadèmiques de químics la química analítica no sigui considerada entre les subdisciplines principals de la química i sigui vista més com part de la tecnologia química. Un altre aspecte notable en aquesta classificació és que la química inorgànica sigui definida com "química no orgànica". És d'interès també que la química física és diferent de la física química. La diferència és clara en anglès: "chemical physics" i "physical chemistry"; en català, ja que l'adjectiu va al final, l'equivalència seria:
+
+    * Química física \Longleftrightarrow \; Physical Chemistry
+    * Física química \Longleftrightarrow \; Chemical physics
+
+Normalment els químics són educats en termes química física i els físics treballen problemes de la física química.
+
+La gran importància dels sistemes biològics fa que en els nostres dies gran part del treball de química sigui de naturalesa bioquímica. Entre els problemes més interessants es troben, per exemple, l'estudi del desdoblament de les proteïnes i la relació entre seqüència, estructura i funció de proteïnes.
+
+Si hi ha una partícula important i representativa en la química és l'electró. Un dels majors assoliments de la química és haver arribat a l'enteniment de la relació entre reactivitat química i distribució electrònica d'àtoms, molècules o sòlids. Els químics han pres els principis de la mecànica quàntica i les seves solucions fonamentals per a sistemes de pocs electrons i els han estès a sistemes realistes. La idea d'orbital atòmic i molecular és una forma sistemàtica en la qual la formació d'enllaços és entenedor i és la sofisticació dels models inicials del diagrama de Lewis. La naturalesa quàntica de l'electró fa que la formació d'enllaços sigui entenedor físicament i no es recorri a creences com les quals els químics van utilitzar abans de l'aparició de la mecànica quàntica. Tot i així, es va obtenir gran concepció a partir de la idea del diagrama de Lewis i es va desenvolupar la química en bona mesura amb aquesta base. Avui en dia, des del punt de vista físic, per exemple, sembla miraculós el qual dos electrons s'atreguin i tendeixin a estar junts i alhora apantallen la repulsió entre els nuclis positius. Des d'aquest punt de vista, la química és una prova gegantesca de la importància de la naturalesa quàntica a nivell microscòpic.
+
+[edita] Història
+
+Les primeres experiències de l'home com químic es van donar amb la utilització del foc en la transformació de la matèria. L'obtenció de ferro a partir del mineral i de vidre a partir de sorra són clars exemples. Poc a poc l'home es va adonar que altres substàncies també tenen aquest poder de transformació. Es va dedicar una gran obstinació a buscar una substància que transformés un metall en or, el que va dur a la creació de l'alquímia. L'acumulació d'experiències alquímiques va jugar un paper vital en el futur establiment de la química.
+
+La química és una ciència empírica, ja que estudia les coses per mitjà del mètode científic, és a dir, per mitjà de l'observació, la quantificació i, sobretot, l'experimentació. En el seu sentit més ampli, la química estudia les diverses substàncies que existeixen en el nostre planeta així com les reaccions que les transformen en altres substàncies. Un exemple és el canvi d'estat de l'aigua, de líquida a sòlida, o de gaseosa a líquida. Per una altra part, la química estudia l'estructura de les substàncies al seu nivell molecular. I finalment, però no menys important, les seves propietats.
+
+[edita] Subdisciplines de la química
+
+Algunes de les múltiples subdisciplines de la química són:
+
+    * Química inorgànica: estudia els minerals; també estudia l'estructura, transformació i propietats de la matèria.
+    * Química orgànica: Síntesi i estudi dels composts que es basen en cadenes de carboni.
+    * Bioquímica: estudia les reaccions químiques en els éssers vius, estudia l'organisme i els éssers vius.
+    * Química física: estudia els fonaments i bases físiques dels sistemes i processos químics. En particular, són d'interès per al químic físic els aspectes energètics i dinàmics de tals sistemes i processos. Entre les seves àrees d'estudi més importants s'inclouen la termodinàmica química, la cinètica química, l'electroquímica, la mecànica estadística i la espectroscopia. Normalment s'associa també amb la química quàntica i la química teòrica.
+    * Química quàntica
+    * Química mediambiental: estudia la influència de tots els components químics que hi ha a la terra, tant en la seva forma natural com antropogènica.
+    * Química teòrica
+    * Química computacional
+    * Electroquímica
+    * Química nuclear
+    * Petroquímica
+    * Geoquímica: estudia totes les transformacions dels minerals existents a la terra.
+    * Química analítica: estudia els mètodes de detecció (identificació) i quantificació (determinació) d'una substància en una mostra. Es subdivideix en quantitativa i qualitativa.
+    * Química organometàl·lica
+    * Fotoquímica
+    * Química industrial
+    * Química Macromolecular: estudia la preparació, caracterizació, propietats i aplicacions de les macromolècules.
+
+[edita] Les aportacions d'autors cèl·lebres
+
+Fa aproximadament quatre-cents cinquanta-cinc anys, només es coneixien dotze elements. A mesura que van ser descobrint més elements, els científics es van adonar que tots tenien un ordre precís. Quan els van col·locar en una taula ordenats en files i columnes, van veure que els elements d'una mateixa columna tenien propietats similars. Però també apareixien espais buits en la taula per als elements encara desconeguts. Aquests espais buits van dur al científic rus Dimitri Mendeleyev a pronosticar l'existència del germani, de nombre atòmic 32, així com el seu color, pes, densitat i punt de fusió. "La seva predicció sobre altres elements com el gal·li i l'escandi - també va resultar molt important", assenyala l'obra Chemistry, llibre de text de química editat el 1995.
+
+[edita] Camp de treball: l'àtom
+
+L'origen de la teoria atòmica es remunta a l'escola filosòfica dels atomistes, a la Grècia antiga. Els fonaments empírics de la teoria atòmica, d'acord amb el mètode científic, són un conjunt de treballs fets per Lavoisier, Proust, Richter, Dalton, Gai-Lussac i Avogadro entre altres, cap a principis del segle XIX.
+
+Els àtoms són la fracció més petita de matèria estudiats per la química, estan constituïts per diferents partícules, carregades elèctricament, els electrons, de càrrega negativa; els protons, de càrrega positiva; els neutrons, que, com el seu nom indica, són neutres (sense càrrega); tots ells aporten massa per a contribuir al pes de l'àtom.
+
+[edita] Conceptes fonamentals
+
+[edita] Partícules
+
+Els àtoms són les parts més petites d'un element (com el carboni, el ferro o l'oxigen). Tots els àtoms d'un mateix element tenen la mateixa estructura electrònica (responsable aquesta de la gran majoria de les característiques químiques), podent diferir en la quantitat de neutrons (isòtops). Les molècules són les parts més petites d'una substància (com el sucre), i es componen d'àtoms enllaçats entre si. Si tenen càrrega elèctrica, tant àtoms com molècules es diuen ions: cations si són positius, anions si són negatius.
+
+El mol s'usa com comptador d'unitats, com la dotzena (12) o el miler (1.000), i equival a 6,022045\cdot10^{23}. Es diu que 12 grams de carboni o un gram d'hidrogen o 56 grams de ferro contenen aproximadament un mol d'àtoms (la massa molar d'un element està basada en la massa d'un mol de dit element). Es diu llavors que el mol és una unitat de canvi. El mol té relació directa amb el nombre d'Avogadro. El nombre d'Avogadro va ser estimat per a l'àtom de carboni pel químic i físic italià Carlo Amedeo Avogadro Comte de Quarequa i di Cerreto. Aquest valor, exposat anteriorment, equival al nombre de partícules presents en 1 mol de dita substància. Vegem:
+
+1 mol de glucosa equival a 6,022045\cdot10^{23} molècules de glucosa
+
+1 mol d'Urani equival a 6,022045\cdot10^{23} àtoms d'Urani
+
+Dins dels àtoms, podem trobar un nucli atòmic i un o més electrons. Els electrons són molt importants per a les propietats i les reaccions químiques. Dins del nucli es troben els neutrons i els protons. Els electrons es troben al voltant del nucli. També es diu que és la unitat bàsica de la matèria amb característiques pròpies. Està format per un nucli on es troben protons.
+
+[edita] Dels àtoms a les molècules
+
+Els enllaços són les unions entre àtoms per a formar molècules. Sempre que existeix una molècula és perquè aquesta és més estable que els àtoms que la formen per separat. A diferència d'energia entre aquests dos estats se'l denomina energia d'enllaç.
+
+Generalment, els àtoms es combinen en proporcions fixes per a donar molècules. Per exemple, dos àtoms de hidrogen es combinen amb un d'oxigen per a donar una molècula d'aigua. Aquesta proporció fixa es coneix com estequiometria.
+
+[edita] Orbitals
+Diagrama espacial mostrant els orbitals atòmics hidrogenoides de moment angular del tipus d (l=2).
+
+Per a una descripció i comprensió detallades de les reaccions químiques i de les propietats físiques de les diferents substàncies, és molt útil la seva descripció a través d'orbitals, amb ajuda de la química quàntica.
+
+Un orbital atòmic és una funció matemàtica que descriu la disposició d'un o dos electrons en un àtom. Un orbital molecular és anàlog, però per a molècules.
+
+En la teoria de l'orbital molecular la formació de l'enllaç covalent és d'una combinació matemàtica d'orbitals atòmics (funcions d'ona) que formen orbitals moleculars, anomenats així per que pertanyen a tota la molècula i no a un àtom individual. Així com un orbital atòmic (sigui híbrid o no) descriu una regió de l'espai que envolta a un àtom on és probable que es trobi un electró, un orbital molecular descriu una regió de l'espai en una molècula on és més factible que es trobin els electrons.
+
+Igual que un orbital atòmic, un orbital molecular té una grandària, una forma i una energia específics. Per exemple, en la molècula d'hidrogen molecular es combinen dos orbitals atòmics ocupats cadascun per un electró. Hi ha dues formes en què pot presentar-se la combinació d'orbitals: aditiva i subtractiva. La combinació aditiva produeix la formació d'un orbital molecular que té menor energia i que té, aproximadament, forma ovalada, mentre que la combinació subtractiva condueix a la formació d'un orbital molecular amb major energia i que genera un node entre els nuclis.
+
+[edita] Dels orbitals a les substàncies
+
+Els orbitals són funcions matemàtiques per a descriure processos físics: un orbital solament existeix en el sentit matemàtic, com poden existir una suma, una paràbola o una arrel quadrada. Els àtoms i les molècules són també idealitzacions i simplificacions: un àtom només existeix en buit, una molècula només existeix en buit, i, en sentit estricte, una molècula només es descompon en àtoms si es trenquen tots els seus enllaços.
+
+En el "món real" només existeixen els materials i les substàncies.
+
+[edita] Dissolucions
+
+En aigua, i en altres dissolvents (com l'alcohol), és possible dissoldre substàncies, de manera que queden disgregades en les molècules o ions que les componen (les dissolucions són transparents). Quan se supera cert límit, cridat solubilitat, la substància ja no es dissol, i queda, bé com precipitat en el fons del recipient, bé com suspensió, surant en petites partícules (les suspensions són opaques o traslúcides).
+
+Es denomina concentració a la mesura de la quantitat de solut per unitat de quantitat de dissolvent.
+
+[edita] Mesura de la concentració
+
+La concentració d'una dissolució es pot expressar de diferents formes, en funció de la unitat emprada per a determinar les quantitats de solut i dissolvent. Les més usuals són:
+
+    * Grams per litre (g/l) raó solut/dissolvente o solut/dissolució, depenent de la convenció.
+    *  % en massa: raó solut/dissolució
+    *  % en volum: raó solut/dissolució
+    * Molaritat: raó solut/dissolució
+    * Normalitat raó solut/dissolució
+    * Molalitat: raó solut/dissolvent
+    * Fracció molar
+    * Parts per milió raó solut/dissolució
+
+[edita] Acidesa
+
+El pH és una escala logarítmica per a descriure l'acidesa d'una dissolució aquosa. Els àcids, com el suc de llimona i el vinagre, tenen un pH baix (inferior a 7). Les bases, com el bicarbonat de sodi, tenen un pH alt (superior a 7).
+
+El pH es calcula mitjançant la següent equació:
+
+    pH= -\log a_{H^+} \approx -\log [H^+]\,
+
+on a_{H^+}\, és l'activitat dels ions d'hidrogens en la solució, la qual en solucions diluïdes és numèricament igual a la molaritat d'ions d'hidrogen [H^+]\,, que cedeix l'àcid a la solució.
+
+    * una solució neutral (aigua ultra pura) té un pH de 7, el que implica una concentració d'ions d'hidrogen de 10-7 M
+    * una solució àcida (per exemple, d'àcid sulfúric)té un pH < 7, és a dir que la concentració d'ions d'hidrogen és major que 10-7 M
+    * una solució bàsica (per exemple, d'hidròxid de potassi) té un pH > 7, o sigui que la concentració d'ions d'hidrogen és menor que 10-7 M
+
+[edita] Formulació i nomenclatura
+
+La IUPAC, un organisme internacional, manté unes regles per a la formulació i nomenclatura química. D'aquesta forma, és possible referir-se als compostos químics de forma sistemàtica i sense errors.
+
+Mitjançant l'ús de fórmules químiques és possible també expressar de forma sistemàtica les reaccions químiques, en forma d'equació química.
+
+    * estereoquímica
+    * hidròlisis
+    * metall
+    * oxidació
+    * sal
+    * pesos atòmics
+    * reacció química -- ordre de reacció -- molecularitat
+    * redox -- reducció -- oxidació -- sèries de potencials -- potencial d'electró
+
+-->
+
+[edita] Vegeu també
+Portal 	
+Portal: Química
+Articles relacionats amb Química
+
+    * IUPAC
+    * Taula periòdica
+    * Farmàcia
+    * Física
+    * Matemàtiques
+    * Biologia
+    * Absorció (química)
+    * Filosofia de la química
+    * Substància química
+    * Dinàmica molecular
+    * Radical químic
+    * Element químic
+    * Compost químic
+    * Àtom
+    * Molècula
+    * Punt isoelèctric
+    * Quimiometria
+    * Cromatografia
+
+[edita] Enllaços externs
+
+    * Societat Catalana de Química
+    * planes web sobre química (en català)
+    * plana web de l'IUPAC (en anglès)

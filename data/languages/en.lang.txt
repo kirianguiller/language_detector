@@ -1,0 +1,86 @@
+An American Citizen Was Detained While Trying to Pay a Customs Fee on a Gift for His Daughter
+Sam Biddle
+
+October 23 2019, 5:21 p.m.
+
+It was July of last year, and the man’s daughter was to be married soon. A box of celebratory gifts — clothing and perfume from family in the Middle East — arrived at Buffalo Niagara International Airport customs. The man had picked up similar shipments a handful of times before, enough to know the routine: The customs office calls to let him know his items have arrived, inspects the goods, and tells him to pay an import duty at an office just 13 miles away at the Peace Bridge, which connects the U.S. to Canada.
+
+This time, however, when he arrived at the bridge office as instructed, carrying a handwritten note from the original customs office, the man, a U.S. citizen, was detained and searched by Customs and Border Protection, he said. His phones were seized and his car rifled through. His father and cousin, who had been waiting in the vehicle, were themselves detained, ordered into the office to answer questions about their national backgrounds.
+
+The incident, as described by the man and his attorneys, illustrates just how ready officials are to conduct invasive searches at the border, where, in the name of national security, certain due process protections normally afforded Americans under the Fourth Amendment are not observed. It also calls into question whether the man, who is Muslim, was singled out because of his faith. The man, who asked not to be named because he fears retaliation and harrassment, was not flying or otherwise crossing the border that day and did not expect to be detained while merely trying to clear a package of gifts.
+
+CBP did not respond to requests for comment.
+
+Every citizen of the United States is constitutionally protected against unreasonable searches and seizures — but there are exceptions. Although the law demands that police interested in the contents of your car trunk or location of your iPhone first obtain a warrant, the rules change for Americans traveling through, say, an airport, or a road checkpoint along the Mexican border. This is known as the “border search exception” to the Fourth Amendment. In these instances, courts have ruled, law enforcement can conduct a “routine” search of you and your belongings, like emptying of your pockets or opening your bag at airport security, without a warrant or even cause for suspicion. Any search at the border considered “non-routine” — a strip search, for instance — requires some modicum of suspicion.
+
+But routine or non-routine, the border search exception is grounded in traversal of the border itself, the rationale being that a government’s interest in who is attempting to enter the country (and what they’re carrying) is a reasonable one. “Searches made at the border, pursuant to the long-standing right of the sovereign to protect itself by stopping and examining persons and property crossing into this country, are reasonable simply by virtue of the fact that they occur at the border,” the Supreme Court ruled in a landmark 1977 border search case.
+
+But CBP’s “authority isn’t a blank check to subject people to invasive border-type searches if they aren’t actually trying to cross the border,” New York Civil Liberties policy counsel Zach Ahmad told The Intercept. “It is incumbent on CBP to determine when someone is actually trying to enter or leave the country.”
+
+The New York man — let’s call him John Doe — found himself on that July day stuck in this legal gray zone, where constitutional norms are suspended and Homeland Security asserts itself unflinchingly. He and one of the attorneys, Albert Fox Cahn, discussed the incident by phone in an interview with The Intercept.
+
+Normally when paying the import duty at the airport, Doe could simply hand over the money and drive home. In the July incident, at the CBP cashier’s counter, Doe was asked where he’d come from. He showed his paperwork from the customs office just 12 miles away and explained that he hadn’t arrived from anywhere by plane; he was an American and a local, with no intention of crossing the border that day or any other that day.
+
+He was asked for his identification in order to pay the small duty fee for his daughter’s gifts, and only then realized that he’d left his wallet at home. When he explained this, that he’d made an honest mistake and wanted only to pay the routine duty owed and depart, he was told that in fact he wasn’t permitted to leave. Doe asked if he could speak to a supervisor who might be familiar with his situation — a customs official at the airport had emailed ahead of his arrival — but was told to “go inside” a detention area and nothing further. He was led to an inspection room by himself. Doe was now detained.
+
+    He was asked for his identification in order to pay the small duty fee, and only then realized that he’d left his wallet at home. When he explained this, he was told that in fact he wasn’t permitted to leave.
+
+After sitting alone in the detention room for about an hour, Doe was questioned further by a CBP officer. “Where are you from?” he was asked again. “Here,” he repeated. Doe was asked to empty the contents of his pockets and turn them inside out in front of the officers, who took his car keys and left to search the vehicle without his permission or presence. CBP was permitted to search the car, they said, because he’d driven it to their office.
+
+Doe’s father and cousin, who’d been waiting in the car during what they thought would be a quick stop, were ordered inside to join their relative in the detention room and questioned about their nationality before being let go. Doe, alarmed by what was happening, attempted to contact his brother from his phone, only to be told he wasn’t permitted to use his phone at all, and that it would be now be confiscated. The CBP officer present pressed Doe on why he had two cellphones before ordering him to hand them both over; Doe said in an interview that he simply prefers having two phones and got a good deal on them. “That’s not criminal, to have two phones,” he said.
+
+It’s unclear what exactly CBP did with Doe’s devices. All he and his lawyers know for certain, they told The Intercept, is that the agency had physical possession of them for roughly 45 minutes and that for part of that time, they were placed near a CBP computer, where Doe could see them.
+
+Join Our Newsletter
+Original reporting. Fearless journalism. Delivered to you.
+I’m in
+
+Cellebrite, an Israeli firm that has sold forensic software to law enforcement agencies across the country — including CBP — has claimed the ability to pull data from a phone and onto an agent’s computer at speeds of up to 1 gigabyte per minute, meaning troves of emails, texts, photos, contacts, and other sensitive personal data could be exfiltrated in a relatively short amount of time.
+
+The rules for how such device searches are supposed to be conducted in an era when the contents of your smartphone can contain more or less a full record of your existence are a muddle. Policies adopted by CBP’s organizational parent entity, the Department of Homeland Security, permit border agents to conduct a so-called basic search of your phone — confined to scrolling and tapping through its screen just as you would yourself — without any justification. A so-called advanced device search, using software that can break through security mechanisms like password locks and encryption and make permanent copies of data for later analysis, is permitted whenever “there is reasonable suspicion of activity in violation of the laws enforced or administered by CBP, or in which there is a national security concern.” These terms remain largely undefined, at least in public documents, and CBP Directive No. 3340-049A, the most recently published version of Homeland Security’s rules for rummaging through phones at the border, is rife with exceptions. For example, per the July 2018 directive, “Searches of electronic devices should be conducted in the presence of the individual whose information is being examined,” unless, that is, “there are national security, law enforcement, officer safety, or other operational considerations that make it inappropriate to permit the individual to remain present.”
+
+Sophia Cope, a senior staff attorney with Electronic Frontier Foundation, told The Intercept that “searching a person already inside the U.S. stretches the Fourth Amendment’s border search exception beyond recognition,” adding that there is “nothing in CBP’s policy on border searches of electronic devices that authorizes such a search” like the one Doe experienced.
+
+    “Searching a person already inside the U.S. stretches the Fourth Amendment’s border search exception beyond recognition.”
+
+After over an hour, Doe was released. At no point had he received an explanation for his detention, the search of his car, the questioning of his relatives, or the seizure of his phones, he said. During his detention, the only thing even resembling a rationale for his treatment was a comment that the handwritten note he’d brought from airport customs to the CBP facility was unusual, though no attempt seemed to have been made to contact customs to see that his story checked out. Days later, a friend recommended Doe contact the Council on American–Islamic Relations, where Cahn, a civil liberties and privacy attorney, took up his case, along with the New York law firm Stroock & Stroock & Lavan. Cahn, who later left CAIR to become executive director of the Urban Justice Center’s Surveillance Technology Oversight Project, told The Intercept that he and his client have yet to sue the government but hope Doe’s story will prompt others who have been subjected to border searches without even attempting to cross the border to come forward.
+
+“We’ve seen a huge surge in complaints from the Muslim community describing an ongoing campaign of discriminatory searches by CBP all across the country,” said Cahn. “I find it hard to believe that it’s a complete coincidence that of all the American citizens entering that office on that day, the man who is singled out for a search happens to be a Muslim man of Middle Eastern descent,” he added. “I think we see a prolonged campaign to turn the border zone … into a constitutional free zone. There’s a systemic disregard for the law.” Cahn told The Intercept that he’s “flagged the matter for several high-profile DHS officials” and “repeatedly reached out out to the Office for Civil Rights and Civil Liberties” at DHS, but has never received any “substantive” reply or explanation for Doe’s detention. The DHS CRCL office referred a request for comment to the department’s media office, which did not respond.
+
+There’s no anger in Doe’s voice when he talks about his detention but still traces of dismay and confusion. “Why? Why only me? Why this time? Too many questions came to my mind. I [did] not cross the border, I’m in the U.S. I hear a lot of things about U.S. customs sometime, especially as a Muslim. When they put me inside the room alone, I felt just like I’d been selected as a criminal, like I’ve done something wrong. If someone walked in and saw me in that room alone … it made me feel guilty. What have I done?”
+
+Ilhan Omar Explains Why She Endorsed Bernie Sanders — and Why She Blames Mark Zuckerberg for Enabling Threats Against Her
+Akela Lacy
+
+October 24 2019, 12:51 p.m.
+
+A little over a year ago, the last time then-congressional candidate Ilhan Omar appeared as a guest on The Intercept’s Deconstructed with Mehdi Hasan, she was skeptical that Sen. Bernie Sanders should make a second run for president, instead identifying more closely with Massachusetts Sen. Elizabeth Warren.
+
+Asked last year if she thought Sanders should run for president, Omar said, “I actually believe that ship might have sailed.” She would, however, have been excited about a Warren candidacy, she said, explaining that she’d “always thought of [herself] as part of the Warren wing of the party.”
+
+But Omar’s views have evolved over the past 12 months. She endorsed the independent senator from Vermont last week, and she explained her decision Wednesday night during a live taping of the Deconstructed podcast at George Washington University in Washington, D.C.
+
+ 
+
+ 
+
+“Sometimes you have to be reminded about the vision you truly believe in, and where your core values lie,” Omar said. “And for me, I know that there are people that have to switch some things around, and there are people that are just easy to believe in. And I was reminded that Bernie is one of the people.”
+
+Asked whether she meant that Warren had switched things around, Omar said, “for me.”
+
+Most Democrats, she said, belong to the “Warren wing” of the party.  “I mean it’s the one thing that everybody accuses us of. We think we’re the smartest in the room. We are very policy oriented. We care about the details. And there is that aspect of Warren that is exciting. She has a plan for everything,” Omar said. “But there is I think an expansion of what universal values are, and how we should be thinking about what kind of revolutionary ideas this country needs in order for these structural changes that Warren talks about to be implemented. And that person who will carry that out is Bernie.”
+
+Later, in response to an audience question, Omar said that some of her Republican colleagues in the House of Representatives should have faced disciplinary action, or possibly arrest, for their disruption of a hearing related to the impeachment inquiry into President Donald Trump. “It is obnoxious to me that none of them were arrested or are going to find themselves in trouble for the security breach that they had,” she said, referring to a Wednesday afternoon incident when more than 20 House Republicans stormed a secure, restricted room in the House basement where Democrats were set to hear testimony from Deputy Assistant Defense Secretary Laura Taylor, a Pentagon official overseeing Ukraine. The congressmen, led by Florida Republican Rep. Matt Gaetz, bombarded the Sensitive Compartmented Information Facility, or SCIF. They claimed they were protesting the fact that Republicans are being pushed out of the impeachment process, but in reality, 12 of them sit on committees involved in the ongoing inquiry, meaning they were allowed to attend the depositions held in the SCIF this week.
+
+Omar also blasted Trump, who had dinner with several of the members on Tuesday night, for his involvement in disrupting the impeachment inquiry. “He had dinner with them last night and chastised them about how they’d didn’t have his back. And you’ve had these grown men who are sworn to uphold the constitution barge in, obstructing a process that is mandated by our constitution,” she said.
+
+Since she was elected to Congress last November, Omar has been singled out for attacks by conservatives ranging from TV pundits to the president of the United States. She has received credible death threats and faces continuous online harassment. On Wednesday night, she said both the president and Facebook CEO Mark Zuckerberg, whose platform has been scrutinized for enabling hate speech and threats of violence to proliferate, were partially responsible.
+Join Our Newsletter
+Original reporting. Fearless journalism. Delivered to you.
+I’m in
+
+“At the end of the day, it’s also a very serious issue, in the sense that people have been arrested who are trying to kill you. Just this week, North Dakota state’s Republican senator put out a fake image of you at [an] al-Qaeda training camp,” Hasan said. “And you pointed out in a tweet in response, you said that this is stirring up hate and violence. You said Facebook are not doing anything about this.”
+
+Did Omar think that Trump and Zuckerberg had helped people put a target on Omar’s back, Hasan asked. “Yes and yes,” she said.
+
+“We have done everything that we can to engage them in a conversation about how they’re putting my life in danger and the lives of people who share my identities,” Omar said. “Right, when they describe me as a terrorist, every single Somali girl or Muslim girl that’s walking down the street that resembles me, her life is also in danger.”

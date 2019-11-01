@@ -1,0 +1,122 @@
+ Wikipedia è un progetto no-profit: per favore dona oggi.
+Dona »
+[Espandi]
+Supporta Wikipedia: un progetto no-profit.
+Dona »
+Atomo
+Da Wikipedia, l'enciclopedia libera.
+Vai a: Navigazione, cerca
+bussola Disambiguazione – Se stai cercando il supereroe dei fumetti DC, vedi Atomo (fumetto).
+L'atomo
+Proprietà
+Massa: 	da ≈ 1,67 × 10-27 a 4,52 × 10-25 kg
+Carica elettrica: 	zero (quando numero di elettroni e protoni si equivalgono)
+Diametro: 	da 100 pm (He) a 670 pm (Cs) [1]
+
+L'atomo (dal greco ἄτομος - àtomos -, indivisibile, unione di ἄ - a - [alfa privativo] + τομῆ - tomê - [divisione], così chiamato perché inizialmente considerato l'unita più piccola ed indivisibile della materia, risalente alla dottrina dei filosofi greci Leucippo, Democrito ed Epicuro, detta atomismo) è la più piccola parte di ogni elemento esistente in natura che ne conserva le caratteristiche chimiche.
+Indice
+[nascondi]
+
+    * 1 Struttura atomica
+    * 2 Modello atomico
+          o 2.1 I primi modelli atomici
+          o 2.2 Bohr e la meccanica ondulatoria: l'atomo oggi
+    * 3 Note
+    * 4 Voci correlate
+    * 5 Altri progetti
+
+Struttura atomica [modifica]
+
+Verso la fine dell'Ottocento (con la scoperta dell'elettrone) fu dimostrato che l'atomo non era indivisibile, bensì a sua volta composto da particelle più piccole (alle quali ci si riferisce con il termine "subatomiche"). In particolare, l'atomo è composto da un nucleo carico positivamente e da un certo numero di elettroni, carichi negativamente, che gli ruotano attorno senza un'orbita precisa (l'elettrone si dice infatti delocalizzato), nei cosiddetti gusci elettronici. Il nucleo è composto da protoni, che sono particelle cariche positivamente e da neutroni che sono particelle prive di carica: protoni e neutroni sono detti nucleoni. In proporzione se si considera il nucleo grande come una mela, gli elettroni gli ruotano attorno ad una distanza pari a circa un chilometro; viceversa un nucleone ha massa quasi 1800 volte superiore a quella di un elettrone.
+Particella 	Simbolo 	Carica 	Massa 	Note
+Elettrone 	e- 	-1,6 × 10-19 C 	9,10 × 10-31 kg (0,511 MeV/c²) 	Scoperto da Thomson in base alle esperienze sui raggi catodici di William Crookes. Con l'esperimento della goccia d'olio Millikan ne determinò la carica.
+Protone 	p+ 	1,6 × 10-19 C 	1,6726231 × 10-27 kg (9,3828 × 102 MeV/c²) 	Scoperto da Ernest Rutherford con l'esperimento dei raggi alfa, la sua esistenza fu ipotizzata già da Eugene Goldstein, lavorando con i raggi catodici.
+Neutrone 	n 	0 C 	1,674 927 29(28) × 10−27 kg (9,39565 560(81) × 102 MeV/c²) 	Scoperto da James Chadwick, la sua esistenza fu desunta a partire da contraddizioni studiate prima da Walther Bothe, poi da Irène Joliot-Curie e Frédéric Joliot.
+Rappresentazione schematica di un atomo di elio.
+Attorno al nucleo, composto da due neutroni (in verde) e due protoni (in rosso), ruotano gli elettroni (in giallo)
+
+Si definiscono due quantità per identificare ogni atomo:
+
+    * Numero di massa (A): la somma del numero di neutroni e protoni nel nucleo
+    * Numero atomico (Z): il numero dei protoni nel nucleo, che corrisponde al numero di elettroni esterni ad esso
+
+Per ricavare il numero dei neutroni si sottrae al Numero di massa il Numero atomico
+
+Esiste una grandezza che ne quantifica la massa, definita peso atomico (più correttamente "massa atomica"): Essa è definita come la dodicesima parte della massa di un atomo di carbonio-12 (12C). Il numero degli elettroni che ruotano attorno al nucleo è uguale al numero dei protoni nel nucleo: essendo le predette cariche di valore assoluto uguale, un atomo è normalmente elettricamente neutro e pertanto la materia è normalmente elettricamente neutra. Tuttavia esistono atomi che perdono o acquistano elettroni in virtù di una reazione chimica: la specie che ne deriva si chiama ione. Gli atomi aventi lo stesso numero atomico hanno le stesse proprietà chimiche: si è dunque convenuto a definirli appartenenti allo stesso elemento.
+
+Due atomi possono differire anche nell'avere numero atomico uguale ma diverso numero di massa: simili atomi sono detti isotopi ed hanno medesime proprietà chimiche. Un esempio di ciò è l'atomo di idrogeno: in natura è presente in grande maggioranza formato da un protone ed un elettrone. Vi è però, in minore quantità, anche il deuterio che è formato da un protone, un neutrone ed un elettrone (con esso si forma l'acqua pesante) e il trizio (estremamente raro) formato da un protone, due neutroni ed un elettrone. Chimicamente, idrogeno, deuterio e trizio hanno però identiche proprietà.
+
+Modello atomico [modifica]
+I diversi ordini di grandezza della materia:
+1. Materia (macroscopico)
+2.Struttura molecolare (atomi)
+3.Atomo (neutrone, protone, elettrone)
+4.Elettrone
+5.Quark
+6.Stringhe
+
+Cenni di storia della teoria atomica Già dal IV secolo a.C. alcuni filosofi greci (Leucippo, e Epicuro) e romani (Tito Lucrezio Caro Lucrezio), i cosiddett i atomisti, ipotizzarono che la materia non fosse continua, ma costituita da particelle minuscole e indivisibili. Queste considerazioni derivavano però da semplici intuizioni filosofiche. I diversi atomi erano supposti differire per forma e dimensioni. L'idea atomistica fu poi avversata da Aristotele il cui pensiero, successivamente, fu adottato dalla Chiesa cattolica: per questo motivo bisogna aspettare fino al XIX secolo perché gli scienziati riprendessero in considerazione l'ipotesi atomica. Nel 1808, John Dalton spiegò i fenomeni chimici secondo i quali le sostanze sono formate dai loro componenti secondo rapporti ben precisi fra numeri interi, ipotizzando che la materia fosse costituita da atomi. Nel corso dei suoi studi Dalton si avvalse delle conoscenze chimiche che possedeva (la legge della conservazione della massa e la legge delle proporzioni definite) e formulò la sua teoria atomica, che si fondava su cinque punti:
+
+    * la Materia è formata da particelle elementari chiamate atomi che sono indivisibili e indistruttibili;
+    * gli atomi di uno stesso elemento sono tutti uguali tra loro;
+    * gli atomi di elementi diversi si combinano tra loro in rapporti di numeri interi e generalmente piccoli dando così origine a composti;
+    * gli atomi non possono essere né creati né distrutti..
+    * gli atomi di un elemento non possono essere convertiti in atomi di altri elementi.
+
+Questa viene considerata la prima teoria atomica della materia perché per primo Dalton ricavò le sue ipotesi per via empirica.
+
+I primi modelli atomici [modifica]
+L'esperimento di Rutherford: poche particelle alfa vengono deflesse dal campo elettrico del nucleo, la maggior parte di esse attraversa lo spazio vuoto dell'atomo
+
+Con la scoperta della radioattività naturale, si intuì successivamente che gli atomi non erano particelle indivisibili, bensì erano oggetti composti da parti più piccole. Nel 1902, Joseph John Thomson propose il primo modello fisico dell'atomo[1]: aveva infatti scoperto un anno prima l'elettrone. Egli immaginò che un atomo fosse costituito da una sfera di materia caricata positivamente (protoni e neutroni non erano stati ancora scoperti) in cui gli elettroni - negativi - erano immersi (modello a panettone).
+
+Nel 1911, Ernest Rutherford fece un esperimento cruciale per mettere alla prova il modello di Thomson. Bombardò un sottilissimo foglio di oro, posto fra una sorgente di particella alfa. Le particelle, passate attraverso la lamina, sarebbero rimaste impresse sullo schermo. L'esperimento portò alla constatazione che i raggi alfa non venivano quasi mai deviati. Essi attraversavano la lamina d'oro senza quasi mai esserne disturbati. Solo l'1% dei raggi incidenti era deviato dal foglio di oro e lo era in modo notevole (alcuni venivano completamente respinti). Sulla base di questo fondamentale esperimento, Rutherford propose un modello di atomo in cui quasi tutta la massa dell'atomo fosse concentrata in una porzione molto piccola, il nucleo (caricato positivamente) e gli elettroni gli ruotassero attorno così come i pianeti ruotano attorno al sole (modello planetario). L'atomo era comunque largamente composto da spazio vuoto, e questo spiega il perché del passaggio della maggior parte delle particelle alfa attraverso la lamina. Il nucleo è così concentrato che gli elettroni gli ruotano attorno a distanze relative enormi, aventi un diametro da 10.000 a 100.000 volte maggiore di quello del nucleo. Rutherford intuì che i protoni da soli non bastavano a giustificare tutta la massa del nucleo e formulò l'ipotesi dell'esistenza di altre particelle che contribuivano a formare l'intera massa del nucleo. Nel modello atomico di Rutherford non compaiono i neutroni, perché queste particelle furono successivamente scoperte da Chadwick nel 1932.
+
+Il modello di Rutherford aveva incontrato una palese contraddizione con le leggi della fisica classica: secondo la teoria elettromagnetica una carica che subisce una accelerazione emette energia sotto forma di radiazione elettromagnetica. Per questo motivo, gli elettroni dell'atomo di Rutherford, che si muovono di moto circolare intorno a nucleo, avrebbero dovuto emettere onde elettromagnetiche e quindi, perdendo energia, annichilire nel nucleo stesso (teoria del collasso), cosa che evidentemente non accade. Inoltre un elettrone, nel perdere energia, potrebbe emettere onde elettromagnetiche di qualsiasi lunghezza d'onda, operazione preclusa nella teoria e nella pratica dagli studi sul corpo nero di Max Planck e, successivamente, di Albert Einstein. Ciò portò i fisici a introdurre una nuova e rivoluzionaria teoria: la quantizzazione dell'energia.
+Elettroni nel nucleo?
+Dopo l'esperimento di Rutherford era abbastanza evidente che gli elettroni non potessero trovarsi all'interno del nucleo. Si può, però, pensare ad una dimostrazione per assurdo: si supponga, per un momento, l'esistenza degli elettroni nel nucleo. Il suo raggio può essere stimato nell'ordine dei 5 fm.
+
+L'impulso dell'elettrone, nell'atomo, allora sarà:
+
+    p = \frac {2 \pi \hbar}{\lambda} = \frac {2 \pi 193,7 MeV fm}{\lambda c}
+
+dove c è la velocità della luce e λ la lunghezza d'onda di de Broglie dell'elettrone.
+
+A questo punto si fissa una lunghezza d'onda massima in 10 fm e si può così calcolare il valore minimo per l'impulso, che alla fine risulta essere di circa 124 MeV/c. Ora, poiché la massa dell'elettrone è pari a 0,5 MeV/c2, da un semplice conto relativistico risulta evidente che l'energia totale dell'elettrone è pari a:
+
+    E2 = p2c2 + m2c4 = 125 MeV
+
+Quindi, se ci fossero elettroni nel nucleo, la loro energia sarebbe 250 volte maggiore rispetto alla loro intera massa: elettroni così energetici, però, non sono mai stati emessi da alcun nucleo. L'unico indiziato, l'elettrone emesso nel decadimento beta dei nuclei, ha un intervallo di energia che va da pochi MeV ad un massimo di 20 MeV.
+
+Bohr e la meccanica ondulatoria: l'atomo oggi [modifica]
+	Per approfondire, vedi le voci atomo di Bohr, orbitale e equazione di Schrödinger.
+
+Nel 1913 Niels Bohr propose una modifica concettuale al modello di Rutherford. Pur accettandone l'idea di modello planetario, postulò che gli elettroni avessero a disposizione orbite fisse nelle quali non emettevano né assorbivano energia (questa infatti rimaneva costante): in particolare, un elettrone emetteva od assorbiva energia sotto forma di onde elettromagnetiche solo se effettuava una transizione da un'orbita all'altra, e quindi passava ad uno stato a energia minore o maggiore (per approfondire si veda l'atomo di Bohr).
+
+Questa idea, non compatibile con le leggi della fisica classica (di Newton), si fondava sulle idee dell'allora nascente meccanica quantistica. Il modello di Bohr spiegava molto bene l'atomo di idrogeno ma non quelli più complessi. Sommerfeld propose allora una correzione al modello di Bohr secondo cui si aveva una buona corrispondenza fra la teoria e le osservazioni degli spettri degli atomi (uno spettro è l'insieme delle frequenze delle radiazioni elettromagnetiche emesse o assorbite dagli elettroni di un atomo). Ciò nonostante il modello di Bohr-Sommerfeld si basava ancora su postulati e soprattutto funzionava bene solo per l'idrogeno: tutto ciò, alla luce anche del principio di indeterminazione introdotto da Heisenberg nel 1927, convinse la comunità scientifica che fosse impossibile descrivere esattamente il moto degli elettroni attorno al nucleo, motivo per cui ai modelli deterministici fino ad allora proposti si preferì ricercare un modello probabilistico, che descrivesse con buona approssimazione un qualsiasi atomo. Ciò fu reso possibile grazie alla meccanica ondulatoria. Nel 1932 fu scoperto il neutrone, per cui si pervenne presto ad un modello dell'atomo pressoché completo in cui al centro vi è il nucleo composto di protoni (positivi) e neutroni (protoni e neutroni si chiamano collettivamente nucleoni) ed attorno vi ruotano gli elettroni.
+
+Fu abbandonato il concetto di orbita e fu introdotto il concetto di orbitale. Secondo la meccanica quantistica non ha più senso infatti parlare di traiettoria di una particella: da ciò discende che non si può neanche definire con certezza dove un elettrone si trova in un dato momento. Ciò che si poteva conoscere era la probabilità di trovare l'elettrone in un certo punto dello spazio in un dato istante di tempo. Un orbitale quindi non è una traiettoria su cui un elettrone (secondo le idee della fisica classica) poteva muoversi, bensì una porzione di spazio intorno al nucleo definita da una superficie di equiprobabilità, ossia entro la quale c'è il 95% della probabilità che un elettrone vi si trovi. In termini prettamente matematici un orbitale è definito da una particolare funzione d'onda, l'equazione di Schrödinger, in tre variabili, i numeri quantici, ciascuna delle quali è associata rispettivamente all'energia, alla forma e all'orientamento nello spazio dell'orbitale.
+
+Note [modifica]
+
+   1. ^ Caforio e Ferilli, PHYSICA 3, Ed. Le Monnier, pag 251
+
+Voci correlate [modifica]
+
+    * Numero di Avogadro
+    * Storia della chimica
+    * Atomo di Bohr
+
+Altri progetti [modifica]
+
+    * Commons
+    * Wikiquote
+
+    * Collabora a Commons Wikimedia Commons contiene file multimediali sull' atomo
+    * Collabora a Wikiquote Wikiquote contiene citazioni sull' atomo
+
+    * chimica Portale Chimica
+    * fisica Portale Fisica
+
+Estratto da "http://it.wikipedia.org/wiki/Atomo"
+Categorie: Energia nucleare | Fisica atomica | Concetti fondamentali di chimica | [altre]

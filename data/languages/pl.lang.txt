@@ -1,0 +1,196 @@
+Język (mowa)
+[edytuj]
+Z Wikipedii
+Skocz do: nawigacji, szukaj
+
+Język - ukształtowany społecznie system budowania wypowiedzi, używany w procesie komunikacji interpersonalnej. Na język składają się dwa elementy:
+
+    * otwarty zbiór znaków, zbudowanych z fonemów
+
+        morfemów
+        wyrazów
+        stałych zwrotów i wyrażeń
+
+    * reguł łączenia i tworzenia znaków
+
+        fonologia
+        morfologia
+        składnia
+
+Język służy do przedstawiania przedmiotów, czynności czy abstrakcyjnych pojęć za pomocą znaków. Zbiór znaków w języku jest otwarty i - jakkolwiek można powiedzieć, że pewna liczba znaków jest częścią języka - sam język jest bardziej systemem tworzenia znaków niż systemem znaków. Wynika to z faktu, że znakiem językowym jest każdy tekst - każda sformułowana wypowiedź, posiadająca znaczenie. Jednostka posługująca się językiem może więc za pomocą jego systemu tworzyć nieskończoną liczbę nowych znaków, także takich, z którymi nigdy się wcześniej nie zetknęła. Znaki te niekoniecznie wzbogacają jednak sam system językowy, gdyż użytkownicy nie uczą się na pamięć wszystkich zasłyszanych wypowiedzi - są jednak w stanie w oparciu o język stworzyć nowy tekst (znak) o tym samym, bądź zbliżonym znaczeniu.
+
+Mówiąc o języku mamy najczęściej na myśli ludzką mowę, tj. system artykułowanych dźwięków, układających się zgodnie z konwencją. Nie należy jednak mylić tych dwóch pojęć, gdyż mowa oznacza używanie języka w procesie porozumiewania się.
+
+Spośród języków używanych przez ludzi można wymienić języki naturalne (np. polski, francuski, islandzki itp.) i sztuczne (np. esperanto, interlingua).
+
+Język mówiony jest utrwalany jako język pisany za pomocą pisma.
+
+Oprócz tego można mówić o języku gestów (język migowy), ciała (np. balet) czy muzyki (notacja muzyczna).
+Matematyka, w szczególności informatyka, używają szeregu sztucznych języków tzw. języków formalnych, m.in. języków programowania.
+
+Badaniami nad językami zajmują się lingwistyka i filologia, a także psycholingwistyka.
+Spis treści
+[ukryj]
+
+    * 1 Szyk morfemów i wyrazów
+    * 2 Języki i dialekty
+    * 3 Przyszłość
+    * 4 Języki świata
+    * 5 Zabawy językowe
+    * 6 Zobacz też
+
+Szyk morfemów i wyrazów [edytuj]
+Zobacz więcej w osobnym artykule: Klasyfikacja języków.
+
+We wszystkich językach szyk morfemów ma znaczącą rolę. Nie zawsze jednak ma ją szyk wyrazów. Na przykład w języku polskim pary morfem tematu + morfem "końcówka rzeczownika" mogą poruszać się dość dowolnie w zdaniu, nie można tego jednak powiedzieć o którymś z tych morfemów z osobna.
+
+W większości języków istnieją zdania, które można podzielić na podmiot, orzeczenie i dopełnienie, choć często typowe zdanie nie zawiera ich wszystkich, lub zawiera w formie złączonej, np. informacje o podmiocie mogą być zawarte w końcówce czasownika. Zwykle pewna kolejność tych 3 elementów w zdaniu jest dominująca. Jest 6 możliwości, przy czym w niewielu językach dopełnienie występuje przed podmiotem. Niezbyt często też orzeczenie występuje na początku zdania:
+
+    * Podmiot Orzeczenie Dopełnienie (SVO) - jeden z dwóch najpopularniejszych szyków; m.in. polski, angielski,
+    * Podmiot Dopełnienie Orzeczenie (SOV) - drugi najpopularniejszy szyk; m.in. łacina, japoński
+    * Orzeczenie Podmiot Dopełnienie (VSO) - m.in. walijski,
+    * Orzeczenie Dopełnienie Podmiot (VOS) - m.in. malgaski
+    * Dopełnienie Orzeczenie Podmiot (OVS) - Hixkaryana
+    * Dopełnienie Podmiot Orzeczenie (OSV) - Apurinatilde;
+
+Języki i dialekty [edytuj]
+
+Różne odmiany jednego języka mówionego nazywane są dialektami, języki lub dialekty używane przez różne grupy etniczne - etnolektami. Kryteria zaklasyfikowania dwóch etnolektów jako odrębnych języków lub dialektów tego samego języka nie są jasno sprecyzowane. Ze względów wyłącznie politycznych, historycznych lub kulturowych uznaje się często jakiś etnolekt za osobny język.
+
+Np. po odzyskaniu przez Mołdawię niepodległości (koniec XX w.) język kategoryzowany wcześniej jako lokalna odmiana języka rumuńskiego uzyskał rangę języka mołdawskiego. Podobnie, po rozpadzie Jugosławii dotychczasowy język serbsko-chorwacki rozpadł się na osobne języki narodowe: serbski, chorwacki i bośniacki.
+
+Często jest też na odwrót, etnolekty dość odległe od siebie uznaje się za odmiany etnolektu dominującego na danym obszarze (zwykle uznawanego wtedy za standard literacki), np. miało to do niedawna miejsce w przypadku języka kaszubskiego określanego z przyczyn politycznych jako dialekt języka polskiego. Innym przykładem jest tu traktowanie większości chińsko-tybetańskich etnolektów używanych w Chinach za dialekty języka chińskiego lub uznawanie etnolektów Arabów za dialekty jednego języka arabskiego. Dzieje się tak, mimo iż użytkownicy tych etnolektów często nie potrafią się między sobą porozumieć, jednak tworzą wspólnotę kulturową lub polityczną.
+
+Ze względu na powszechność praktyki takiego nie opartego na lingwistycznych przesłankach rozróżniania dialektu i języka niektórzy lingwiści żartobliwie mówią, że język to po prostu dialekt posiadający armię i flotę.
+
+Różne odmiany dialektów określa się jako (nie są to definicje ścisłe, w rzeczywistości często tych terminów używa się zamiennie):
+
+    * gwarę, narzecze - język pewnego stosunkowo niewielkiego obszaru, zwykle niezróżnicowany wewnętrznie
+    * żargon - język pewnych grup zawodowych,
+    * slang - język innych grup.
+
+Język oficjalnie uznawany i używany w danym kraju to jego język urzędowy.
+
+Język, który w danej przestrzeni geograficznej lub społecznej (jak Internet) jest używany najpowszechniej to język dominujący. Zjawisko to wiąże się z pojęciem dominacji językowej.
+
+Przyszłość [edytuj]
+
+Nie wiadomo jak dalej potoczą się losy języków świata. Z jednej strony coraz większa komunikacja między osobami mieszkającymi w odległych od siebie miejscach wymusza korzystanie ze wspólnych języków - co może prowadzić do zaniku mniejszych języków - z drugiej zaś na świecie jest coraz więcej ludzi, więc językom coraz trudniej jest zachować spójność. Nie wiadomo też, które języki będą w przyszłości dominujące. Z jednej strony ekspansję prowadzą języki międzynarodowe takie jak angielski i kilka języków o znaczeniu regionalnym, a z drugiej największy przyrost naturalny, a zatem przyrost liczby użytkowników języka notuje się w krajach Trzeciego Świata, których języki na razie nie są zbyt popularne.
+
+Języki świata [edytuj]
+
+Dotychczas poznano i opisano blisko 4,5 tysiąca języków, ale przypuszcza się, że może ich być nawet 6 do 6,5 tysiąca. Języki te klasyfikuje się w rodziny, podrodziny, grupy i zespoły językowe, a także w większe, ale luźne zespoły języków tzw. ligi językowe. Ponadto wyróżnia się także języki izolowane, nie wykazujące żadnych powiązań z istniejącymi językami, np. baskijski.
+
+Listę języków i dialektów świata zawiera strona internetowa Ethnologue, a także strona Marka Rosenfeldera [1] (razem z liczebnikami od 1 do 10).
+
+Zabawy językowe [edytuj]
+
+    * Pig Latin
+    * Gibberish
+    * Ubbi dubbi
+    * verlan
+    * gra półsłówek
+
+Zobacz też [edytuj]
+
+    * akt mowy
+    * Język (część ciała)
+    * dialekt, socjolekt
+    * Klasyfikacja języków - Języki świata
+    * Najczęściej używane języki świata
+    * język urzędowy, język pomocniczy, język międzynarodowy
+    * lingua franca, język wehikularny
+    * języki pidżynowe, języki kreolskie
+    * języki sztuczne
+    * język ojczysty
+    * język potoczny, język literacki, język standardowy, język prawniczy, język prawny
+    * język liturgiczny
+    * język martwy, język wymarły
+    * gramatyka, ortografia, fonologia, semantyka, filozofia języka,
+    * nauka języków obcych
+    * język sformalizowany, zapożyczenia językowe, uniwersalia językowe, fonetyka głęboka, licznik
+
+Źródło: „http://pl.wikipedia.org/wiki/J%C4%99zyk_(mowa)”
+Kategorie: Językoznawstwo • Komunikacja interpersonalna
+
+
+Aktualności
+Endeavour
+
+    * Z Centrum Kosmicznego im. Johna F. Kennedy'ego wystartowała misja promu kosmicznego Endeavour (na zdjęciu), którego celem jest dostarczenie do Międzynarodowej Stacji Kosmicznej m.in. dodatkowych kwater sypialnych, toalety oraz urządzeń do ćwiczeń. (15 listopada 2008)
+
+    * Trzy planety krążące wokół gwiazdy HR 8799 oraz Fomalhaut b krążący wokół gwiazdy Fomalhaut zostały odkryte dzięki obserwacjom teleskopowym. (14 listopada 2008)
+
+    * Na Księżycu wylądował próbnik Moon Impact Probe w ramach misji indyjskiej sondy kosmicznej Chandrayaan-1. (14 listopada 2008)
+
+    * Egiptolog Zahi Hawass ogłosił, że odkryta piramida sprzed 4300 lat należała do królowej Seszseszet – matki faraona Tetiego. (13 listopada 2008)
+
+    * Mohamed Nasheed został zaprzysiężony na urząd pierwszego demokratycznie wybranego prezydenta Malediwów. (11 listopada 2008)
+
+Bieżące wydarzenia: w Wikipedii, w Wikinews
+   
+16 listopada
+Wybrane rocznice
+16 listopada: imieniny obchodzą Małgorzata, Gertruda, Otmar
+Georges Clemenceau
+
+    * 1603 - urodził się Augustyn Kordecki, przeor i obrońca klasztoru paulinów na Jasnej Górze.
+    * 1632 - wojna trzydziestoletnia: miała miejsce bitwa pod Lützen.
+    * 1717 - urodził się Jean d'Alembert, francuski matematyk i filozof, współredaktor Wielkiej Encyklopedii Francuskiej.
+    * 1917 - Georges Clemenceau został premierem III Republiki Francuskiej.
+    * 1940 - Niemcy utworzyli getto żydowskie w Warszawie.
+    * 1945 - powstało UNESCO.
+
+Inne rocznice: 15 listopada - 16 listopada - 17 listopada
+Archiwum • Kalendarium
+Portale
+Portal wikipedystów – Tematyczny przegląd portali
+
+Nauki humanistyczne: Literatura - Językoznawstwo - Sztuka (Architektura - Synagogi)  - Historia (II wojna światowa - PRL) 
+
+Nauki ścisłe i przyrodnicze: Matematyka - Biologia - Chemia - Fizyka - Geografia - Geologia - Paleontologia - Astronomia - Astronautyka - Dinozaury - Kynologia - Nauki medyczne - Pogoda - Rolnictwo - Zoologia 
+
+Geografia: Afryka - Azja - Europa - Góry Stołowe - Karpaty - Lubelszczyzna - Podkarpacie - Pomorze Zachodnie - Powiat iławski - Powiat kolski - Roztocze - Śląsk - Dolny Śląsk - Wielkopolska - Ziemia lubuska - Ziemia radomska - Ziemia świętokrzyska
+
+Miasta: Jastrzębie-Zdrój - Lwów - Łódź - Olsztyn - Poznań - Rzeszów - Warszawa - Żywiec
+
+Państwa świata: Australia - Białoruś - Dania (Wyspy Owcze) - Finlandia, Francja - Gabon - Hiszpania (Katalonia) - Izrael - Japonia - Kanada - Litwa, Łotwa i Estonia - Monako - Niemcy - Polska - Rosja - Rumunia - San Marino - Stany Zjednoczone - Watykan - Węgry - Wielka Brytania (Szkocja)
+
+Wojsko i technika: Wojsko - Technika - Informatyka (Internet) - Transport (Lotnictwo - Kolej - Motoryzacja - Żegluga) Elektronika 
+
+Społeczeństwo i ludzie: Antropologia - Archeologia - Ateizm - Biografie (Leonardo da Vinci) - LGBT - Polityka (Partie) - UE - Prawo - Psychologia - Religioznawstwo  (Buddyzm - Cerkwie - Hinduizm - Islam - Judaizm - Katolicyzm - Święci Kościoła katolickiego - Pallotyni - Protestantyzm) - Seks - Socjologia - Wolnomularstwo
+
+Sport i wypoczynek: Sport - Formuła 1 - Koszykówka - Piłka nożna - Sporty zimowe (Biathlon - Skoki narciarskie) - Snooker - Szachy - Tenis ziemny - Żeglarstwo
+
+Kultura i rozrywka: Akwarystyka - Fantastyka (Harry Potter, Śródziemie, Star Trek) - Film - Gry komputerowe - Muzyka (Rock) - Anime i manga (Pokémony)
+Czy wiesz...
+Z nowych artykułów Wikipedii:
+Widok na zatokę z wyspy Robinson Crusoe
+
+... jaki związek ma wyspa Robinson Crusoe w archipelagu Juan Fernández, odkrytym przez żeglarza o tym nazwisku, a skartografowanym przez Alessandro Malaspinę, z powieścią Daniela Defoe?
+
+... na czym polega okółkowatość u roślin takich jak skrzyp?
+Dama z Elche, sztuka iberyjska, V lub IV wiek p.n.e.
+
+... gdzie i kiedy została odkryta Dama z Elche obecnie przechowywana w Narodowym Muzeum Archeologicznym w Madrycie, najbogatszym muzeum archeologicznym w Hiszpanii?
+
+... w jaki sposób Liga Polskich Rodzin zainspirowała gejowski chór z Bostonu do wydania albumu muzycznego?
+
+... od czego pochodzą czeska i niemiecka nazwa pasma górskiego Chrziby?
+Trzej bohaterowie: Dobrynia Nikitycz, Ilja Muromiec i Alosza Popowicz – ilustracja Wiktora Wasniecowa
+
+... jaką rolę odegrał żmij w życiu dwóch bohaterów ruskich bylin: Aloszy Popowicza i Wołcha Wsiesławiewicza?
+Archiwum | Tematycznie | Napisz nowy artykuł
+Dobry artykuł
+Wysypka pęcherzykowa w początkowym okresie schistosomatozy
+
+Rzadko stwierdzana w Polsce schistosomatoza jest grupą chorób pasożytniczych wywoływanych przez rozdzielnopłciowe przywry z rodzaju Schistosoma występujące na kontynencie afrykańskim, na wschodnich wybrzeżach Ameryki Południowej, w Azji Południowo-Wschodniej i na Bliskim Wschodzie. Schistosomatoza jest obok malarii najpoważniejszym w skali światowej parazytologicznym problemem zdrowotnym.
+Wszystkie | Archiwum | Kandydatury
+Artykuł na medal
+
+Max Rothmann (ur. 26 kwietnia 1868 w Berlinie, zm. 12 sierpnia 1915 w Berlinie) – niemiecki lekarz żydowskiego pochodzenia, fizjolog, neurolog i neuroanatom, praktykujący w Berlinie. Jeden z założycieli Towarzystwa Niemieckich Neurologów (Gesellschaft Deutscher Nervenärzte), autor prac z dziedziny neuroanatomii, neurofizjologii i psychopatologii. Inicjator założenia Antropologicznej Stacji Badawczej Pruskiej Akademii Nauk na Teneryfie, gdzie przeprowadzono pierwsze eksperymenty nad zdolnością szympansów do uczenia się. Jako jeden z pierwszych opisał rzadkie schorzenie, znane dziś pod eponimiczną nazwą zespołu Rothmanna-Makaia.
+Aktualne | Archiwum | Wszystkie medalowe | Kandydatury
+Grafika na medal
+Schemat śmigłowca z systemem NOTAR
+(bez wirnika ogonowego)
+Archiwum | Więcej grafik na medal | Zgłoś kandydaturę
